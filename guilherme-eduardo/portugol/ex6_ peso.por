@@ -16,12 +16,11 @@ programa
 	{
 		real kg
 		escreva("                     BALANÇA VIRTUAL")
-		escreva("\n==============================================================================\nOlá, Seja bem vindo a nossa balança!")
+		escreva("\nOlá, Seja bem vindo a nossa balança!")
 		escreva("\nPor favor digite o seu peso em quilos para que possamos transformar em gramas.")
-		escreva("\nOBS: O número digitado deve ser do tipo Inteiro.\n==============================================================================")
-		escreva("\nPeso em quilos>>>")
+		escreva("\nOBS: O número digitado deve ser do tipo Inteiro.")
+		escreva("\n\nPeso em quilos>>>")
 		leia(kg)
 		escreva("Peso convertido em gramas: ", kg*1000," Gramas")
-		escreva("\n==============================================================================")
 	}
 }
