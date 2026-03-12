@@ -8,6 +8,8 @@
 * Ler a base menor, a base maior e a altura. Calcular e mostrar a área de um trapézio: 
 * (base menor + base maior) + altura / 2.
 * 
+* OBS: A seguinte fórmula da apostila está errada:"(base menor + base maior) + altura / 2."
+* a fórmula correta para usar é "(base menor + base maior) * altura / 2.".
 */
 
 programa
@@ -24,6 +26,6 @@ programa
 		leia(b)
 		escreva("Altura>")
 		leia(h)
-		escreva("\nÁrea do trapézio>>>", ((B+b) + h) /2)
+		escreva("\nÁrea do trapézio>>>", ((B+b) * h) /2)
 	}
 }
