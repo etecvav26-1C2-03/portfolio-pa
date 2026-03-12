@@ -1,6 +1,6 @@
 /*
 * Instituição: EtecVAV - Vasco Antonio Vechiarutti
-* Arquivo: ler o nome e a idade da pessoa 
+* Arquivo:idade.por
 * Data: 06/03/2026
 * Autor: Guilherme Miguel Rodrigues Peireira Lakonski 
 * Descrição:Ler o nome e a idade do usuário. Calcular a idade em meses e dias. Exibir
