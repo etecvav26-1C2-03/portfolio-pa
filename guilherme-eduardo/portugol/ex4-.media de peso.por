@@ -1,6 +1,6 @@
 /*
 * Instituição: EtecVAV - Vasco Antonio Vechiarutti
-* Arquivo: notas de peso
+* Arquivo:media de peso.por
 * Data: 12/03/2026
 * Autor: Guilherme Miguel Rodrigues Pereira Lakonski
 * Descrição: 
