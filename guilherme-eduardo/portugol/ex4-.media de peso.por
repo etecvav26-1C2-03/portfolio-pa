@@ -1,6 +1,6 @@
 /*
 * Instituição: EtecVAV - Vasco Antonio Vechiarutti
-* Arquivo: cavalos.por
+* Arquivo: notas de peso
 * Data: 12/03/2026
 * Autor: Guilherme Miguel Rodrigues Pereira Lakonski
 * Descrição: 
