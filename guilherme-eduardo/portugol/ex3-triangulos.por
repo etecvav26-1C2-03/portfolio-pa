@@ -1,6 +1,6 @@
 /*
 * Instituição: EtecVAV - Vasco Antonio Vechiarutti
-* Arquivo: area de um triangulo
+* Arquivo:triangulos.por
 * Data: 06/03/2026
 * Autor: Guilherme Miguel Rodrigues Peireira Lakonski 
 * Descrição: Ler a base e altura de um triângulo. Calcular e exibir a área do triângulo
