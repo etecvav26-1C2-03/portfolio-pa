@@ -58,6 +58,6 @@ técnicas, como configurar a comunicação com o hardware ou desenhar cada pixel
 	Ferramentas que já trazem "vetores" prontos evitam que o programador precise lidar com endereços de memória física, 
 	o que seria extremamente difícil para iniciantes. 
 			
-	<img width="442" height="324" alt="image" src="https://github.com/user-attachments/assets/406e4592-e22f-46ee-b4b8-d3eb819e6b39" />
-	<img width="434" height="63" alt="image" src="https://github.com/user-attachments/assets/01a4a4c2-76c4-415c-86e6-bd65ca7bc180" />
+<img width="442" height="324" alt="image" src="https://github.com/user-attachments/assets/406e4592-e22f-46ee-b4b8-d3eb819e6b39" />
+<img width="434" height="63" alt="image" src="https://github.com/user-attachments/assets/01a4a4c2-76c4-415c-86e6-bd65ca7bc180" />
 
