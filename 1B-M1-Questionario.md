@@ -1,3 +1,13 @@
+# Exercicio 2
+
+-
+
+
+
+
+
+
+
 # Exercicio 3
 
 - O portugol é uma pseudo-linguagem de programação, criada para ensinar lógica de programação e algoritmos em português. Ela utiliza comandos nessa língua para iniciantes.
