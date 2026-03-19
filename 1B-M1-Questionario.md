@@ -22,7 +22,10 @@
      leia (numero)
 
      escreva ("O dobro do seu número é: ", numero * 2)
-	}
+
+    }
+
 }
+
 
  <img width="444" height="74" alt="image" src="https://github.com/user-attachments/assets/d6594067-3eff-4d1b-b880-cb569cee395f" />
