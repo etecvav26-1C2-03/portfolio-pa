@@ -7,7 +7,8 @@
   /*  
    Atividade número 3  
  */
-    programa
+
+   programa
 {
 	
 	funcao inicio()
