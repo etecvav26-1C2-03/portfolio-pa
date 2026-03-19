@@ -4,9 +4,8 @@
 
   Trecho do código:
 
-  /*
-  
-   Atividade número 3
+  /*  
+   Atividade número 3  
  */
     programa
 {
