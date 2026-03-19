@@ -7,9 +7,9 @@
 
 #### Exemplos do cotidiano:
 
--
+- Uma exemplo
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWWyC7Y0UetFOJSu4dT6m-SkG87EDI8nR4g&s" alt="Lista de compras">
+<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWWyC7Y0UetFOJSu4dT6m-SkG87EDI8nR4g&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsa7cbiz0a3LDafeusAxWNLeuK5PSoqmJ_IA&s)" alt="Receita culinária">
 
 
   
