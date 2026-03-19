@@ -7,6 +7,9 @@
 um trapézio: (base menor + base maior) + altura / 2.
 */
 
+/*
+O CAUCULO DO TRAPÉZIO ESTÁ ERRADO
+*/
 
 
 programa {
@@ -19,6 +22,6 @@ programa {
     leia(b)
     escreva("Altura: ")
     leia(h)
-    escreva("a área do seu trapézio é: ", ((B + b) * h) /2)
+    escreva("a área do seu trapézio é: ", ((B + b) + h) /2)
   }
 }
