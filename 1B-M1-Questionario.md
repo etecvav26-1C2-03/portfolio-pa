@@ -12,12 +12,16 @@
 {
 	
 	funcao inicio()
-	{
+
+    {
 	 
 	 inteiro numero
-		escreva ("Escreva um número: ")
-		leia (numero)
-		escreva ("O dobro do seu número é: ", numero * 2)
+
+     escreva ("Escreva um número: ")
+
+     leia (numero)
+
+     escreva ("O dobro do seu número é: ", numero * 2)
 	}
 }
 
