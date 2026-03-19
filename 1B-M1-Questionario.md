@@ -1,1 +1,6 @@
+# exercicio
 
+- vnn
+- nmnmmn
+---
+bnhkj
