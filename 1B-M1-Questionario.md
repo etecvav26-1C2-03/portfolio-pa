@@ -6,7 +6,8 @@
 - O algoritmo nada mais é do que um passo a passo para seguir.
 -- Exemplo:
 
-- Exemplos de algoritmos no dia a dia:
+
+  
 
 
 
