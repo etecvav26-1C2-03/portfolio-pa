@@ -14,6 +14,7 @@
 ### Em Portugol:
 
 <img width="688" height="454" alt="algoritmo-portugol" src="https://github.com/user-attachments/assets/44c8f167-91bd-4f24-a4e3-2995d9e29bcb" />
+<img width="523" height="110" alt="Console-portugol" src="https://github.com/user-attachments/assets/68aa63cd-eb19-4082-9513-701f9f738ef3" />
 
 
 ### Nesse exemplo em portugol, graças ao algoritmo o programa segue esses passos:
