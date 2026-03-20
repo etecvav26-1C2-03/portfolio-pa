@@ -13,7 +13,8 @@
 
 ### Em Portugol:
 
-<img width="719" height="457" alt="algoritmo-portugol" src="https://github.com/user-attachments/assets/1a615179-e3a5-413a-9187-926c7aa93123" />
+<img width="688" height="454" alt="algoritmo-portugol" src="https://github.com/user-attachments/assets/44c8f167-91bd-4f24-a4e3-2995d9e29bcb" />
+
 
 ### Nesse exemplo em portugol, graças ao algoritmo o programa segue esses passos:
 
