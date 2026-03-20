@@ -1,5 +1,14 @@
 # Exercicio 2
 
+### Algoritmo em linguagem natural:
+
+- 1-Ler o primeiro número
+- 2-Ler o segundo número
+- 3-Ler o terceiro número
+- 4-Comparar os três números
+- 5-Verificar qual deles é o maior
+- 6-Mostrar o maior número
+
 # Exercicio 3
 
 - O portugol é uma pseudo-linguagem de programação, criada para ensinar lógica de programação e algoritmos em português. Ela utiliza comandos nessa língua para iniciantes.
