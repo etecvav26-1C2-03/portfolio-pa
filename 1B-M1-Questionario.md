@@ -15,7 +15,7 @@
 
 <img width="719" height="457" alt="algoritmo-portugol" src="https://github.com/user-attachments/assets/1a615179-e3a5-413a-9187-926c7aa93123" />
 
-### Nesse exemplo em portugol, graças ao algoritmo que o programa recebeu ele segue os seguintes passos:
+### Nesse exemplo em portugol, graças ao algoritmo que o programa recebeu ele segue esses passos:
 
 
 # Exercicio 3
