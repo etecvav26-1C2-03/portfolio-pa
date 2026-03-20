@@ -22,6 +22,9 @@
 - 3-Lê o terceiro número
 - 4-Ele faz o cálculo para descobrir qual o maior e logo após isso ele exibe os resultados
 
+#### Observação:
+
+- Sem esse algoritmo o programa não saberia oque fazer, e como fazer. Por isso ele acaba sendo tão importante em programas e no cotidiano.
 
 # Exercicio 3
 
