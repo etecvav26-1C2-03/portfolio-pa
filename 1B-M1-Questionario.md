@@ -2,7 +2,7 @@
 
 #### "Um programa deve receber três números e mostrar qual deles é o maior."
 
-### Algoritmo na forma de linguagem natural:
+### Algoritmo do problema em linguagem natural:
 
 - 1-Ler o primeiro número
 - 2-Ler o segundo número
