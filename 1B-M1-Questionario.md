@@ -13,7 +13,7 @@
 
 ### Em Portugol:
 
-<img width="639" height="289" alt="algoritmo-portugol" src="https://github.com/user-attachments/assets/da765d42-ca69-44d7-9b2d-2ac486cd9430" />
+<img width="719" height="457" alt="algoritmo-portugol" src="https://github.com/user-attachments/assets/1a615179-e3a5-413a-9187-926c7aa93123" />
 
 # Exercicio 3
 
