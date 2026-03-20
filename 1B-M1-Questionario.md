@@ -3,7 +3,7 @@
 
 ### Oque é um algoritmo?
 
-- O algoritmo é algo muito simples na verdade. ele é um passo a passo para seguir.
+- O algoritmo é algo muito simples na verdade. ele é um passo a passo para fazer algo.
 
 #### Exemplos do cotidiano:
 
