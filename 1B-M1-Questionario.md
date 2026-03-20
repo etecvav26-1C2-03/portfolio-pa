@@ -9,6 +9,8 @@
 - 5-Verificar qual deles é o maior
 - 6-Mostrar o maior número
 
+### Em Portugol:
+
 # Exercicio 3
 
 - O portugol é uma pseudo-linguagem de programação, criada para ensinar lógica de programação e algoritmos em português. Ela utiliza comandos nessa língua para iniciantes.
