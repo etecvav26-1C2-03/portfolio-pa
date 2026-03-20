@@ -17,6 +17,11 @@
 
 ### Nesse exemplo em portugol, graças ao algoritmo o programa segue esses passos:
 
+- 1-Ele lê o primeiro número
+- 2-Lê o segundo número
+- 3-Lê o terceiro número
+- 4-Ele faz o cálculo para descobrir qual o maior e logo após isso ele exibe os resultados
+
 
 # Exercicio 3
 
