@@ -7,7 +7,7 @@
 
 #### Exemplos do cotidiano:
 
-- Uma exemplo
+- Uma exemplo de algoritmo é aquelas receitas de comida onde tem um passo a passo de como cozinhar corretamente.
 
 <img src="https://i.pinimg.com/736x/d9/db/91/d9db91063338d0b5defbc3656fb5a80b.jpg" alt="Receita passo a passo">
 
