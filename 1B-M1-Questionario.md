@@ -1,8 +1,8 @@
 # Exercicio 2
 
-## Problema: Um programa deve receber três números e mostrar qual deles é o maior.
+## Um programa deve receber três números e mostrar qual deles é o maior.
 
-#### Algoritmo em linguagem natural:
+### Algoritmo em linguagem natural:
 
 - 1-Ler o primeiro número
 - 2-Ler o segundo número
