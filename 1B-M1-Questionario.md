@@ -1,16 +1,5 @@
 # Exercicio 2
 
-
-### Oque é um algoritmo?
-
-- O algoritmo é algo muito simples na verdade. ele é um passo a passo para fazer algo.
-
-#### Exemplos do cotidiano:
-
-- Uma exemplo de algoritmo é aquelas receitas de comida onde tem um passo a passo de como cozinhar corretamente. e você deve seguir ela.
-
-<img src="https://i.pinimg.com/736x/d9/db/91/d9db91063338d0b5defbc3656fb5a80b.jpg" alt="Receita passo a passo" width="450px" height="700px">
-
 # Exercicio 3
 
 - O portugol é uma pseudo-linguagem de programação, criada para ensinar lógica de programação e algoritmos em português. Ela utiliza comandos nessa língua para iniciantes.
