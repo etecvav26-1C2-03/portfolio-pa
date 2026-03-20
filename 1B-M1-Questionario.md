@@ -11,6 +11,11 @@
 
 ### Em Portugol:
 
+- 1-Leia(n1)
+- 2-Leia(n2)
+- 3-Leia(n3)
+- se ((n1 > n2) e (n1 > n3)){
+-escreva("O maior número dessas opções é:", n1)
 # Exercicio 3
 
 - O portugol é uma pseudo-linguagem de programação, criada para ensinar lógica de programação e algoritmos em português. Ela utiliza comandos nessa língua para iniciantes.
