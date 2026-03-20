@@ -24,7 +24,7 @@
 
 #### Observação:
 
-- Sem esse algoritmo o programa não saberia oque fazer, e como fazer. Por isso ele acaba sendo tão importante em programas e no cotidiano.
+- Sem esse algoritmo o programa não saberia oque fazer, e como fazer. E por isso ele acaba sendo tão importante em programas e no cotidiano.
 
 # Exercicio 3
 
