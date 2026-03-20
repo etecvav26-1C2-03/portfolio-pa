@@ -9,13 +9,7 @@
 
 - Uma exemplo
 
-<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWWyC7Y0UetFOJSu4dT6m-SkG87EDI8nR4g&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsa7cbiz0a3LDafeusAxWNLeuK5PSoqmJ_IA&s)" alt="Receita culinária">
-
-
-  
-
-
-
+<img src="https://i.pinimg.com/736x/d9/db/91/d9db91063338d0b5defbc3656fb5a80b.jpg" alt="Receita passo a passo">
 
 # Exercicio 3
 
