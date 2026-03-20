@@ -13,6 +13,8 @@
 
 ### Em Portugol:
 
+<img width="640" height="295" alt="algoritmo-portugol" src="https://github.com/user-attachments/assets/34b9539d-64b4-4880-925c-783639341b52" />
+
 # Exercicio 3
 
 - O portugol é uma pseudo-linguagem de programação, criada para ensinar lógica de programação e algoritmos em português. Ela utiliza comandos nessa língua para iniciantes.
