@@ -1,8 +1,8 @@
 # Exercício 1
 ##  Pergunta conceitual
-## 1 QUESTÃO - O QUE É ALGORITIMO
+##  O QUE É ALGORITIMO
 -O algoritimo é o plano de ação que diz "faça uma receita de bolo, depois me de as medidas, se acontecer de a medida ser a mais doque eu tenho , faça uma com oque eu tenho". Ele é oque define oque vai ser o comando, Ele não depende de uma linguagem de computador específica; você pode escrever um algoritmo no papel.
-## 2 QUESTÃO - QUAL É A RELAÇÃO ENTRE LÓGICA DE PROGRAMAÇÃO E ALGORITIMOS
+## QUAL É A RELAÇÃO ENTRE LÓGICA DE PROGRAMAÇÃO E ALGORITIMOS
 -É a habilidade de organizar esses pensamentos de forma coerente para que o computador entenda assim podendo ler e executar
 
 
