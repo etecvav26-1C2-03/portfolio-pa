@@ -1,7 +1,7 @@
 # Exercício 1
 ##  Pergunta conceitual
-
 #### -O algoritimo é o plano de ação que diz "faça uma receita de bolo, depois me de as medidas, se acontecer de a medida ser a mais doque eu tenho , faça uma com oque eu tenho". Ele não depende de uma linguagem de computador específica; você pode escrever um algoritmo no papel, em português.
+#### -é a habilidade de organizar esses pensamentos de forma coerente para que o computador entenda assim podendo ler e executar
 
 
 
