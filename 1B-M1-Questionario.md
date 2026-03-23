@@ -1,5 +1,5 @@
 # Exercício 1
-
+### O algorismo é o plano de ação que diz "faça uma receita de bolo, depois me de as medidas, se acontecer de a medida ser a mais doque eu tenho , faça uma com oque eu tenho". Ele não depende de uma linguagem de computador específica; você pode escrever um algoritmo no papel, em português.
 
 
 
