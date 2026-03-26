@@ -16,17 +16,21 @@ programa
 	
 	funcao inicio()
 	{
-		real lado1, lado2, lado3
+		real ladoA, ladoB, ladoC
 		escreva("====================================================================\n                     CALCULADORA DE TRIÂNGULOS\n====================================================================")
-		escreva("\nPara começarmos informe os seguintes dados para verficarmos se é um triângulo ou não.\n\n====================================================================\nLado 1 >>> ")
-		leia(lado1)
-		escreva("Lado 2 >>> ")
-		leia(lado2)
-		escreva("Lado 3 >>> ")
-		leia(lado3)
+		escreva("\nPara começarmos informe os seguintes dados para verficarmos se é um triângulo ou não.\n\n====================================================================\nLado A >>> ")
+		leia(ladoA)
+		escreva("Lado B >>> ")
+		leia(ladoB)
+		escreva("Lado C >>> ")
+		leia(ladoC)
 		escreva("====================================================================")
-		se((lado1 + lado2 > lado3) e (lado1 + lado3 > lado2) e (lado2 + lado3 > lado1)){ 
-			escreva("\nIsso é um triângulo")
+		se((ladoA + ladoB > ladoC) e (ladoA + ladoC > ladoB) e (ladoB + ladoC > ladoA)){ 
+			escreva("\n====RESULTADOS====")
+			escreva("\n\nÉ um triângulo?\n- Sim")
+		}senao{ 
+			escreva("\n====RESULTADOS====")
+			escreva("\n\nÉ um triângulo?\n- Não")
 		}
 	
 	}
