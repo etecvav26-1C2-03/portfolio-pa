@@ -16,22 +16,37 @@ programa
 	
 	funcao inicio()
 	{
-		real ladoA, ladoB, ladoC
+		real A, B, C
+		
 		escreva("====================================================================\n                     CALCULADORA DE TRIÂNGULOS\n====================================================================")
-		escreva("\nPara começarmos informe os seguintes dados para verficarmos se é um triângulo ou não.\n\n====================================================================\nLado A >>> ")
-		leia(ladoA)
+		escreva("\nPara começarmos informe os seguintes dados para verificarmos se é um triângulo ou não.\n\n====================================================================\nLado A >>> ")
+		leia(A)
 		escreva("Lado B >>> ")
-		leia(ladoB)
+		leia(B)
 		escreva("Lado C >>> ")
-		leia(ladoC)
+		leia(C)
 		escreva("====================================================================")
-		se((ladoA + ladoB > ladoC) e (ladoA + ladoC > ladoB) e (ladoB + ladoC > ladoA)){ 
-			escreva("\n====RESULTADOS====")
-			escreva("\n\nÉ um triângulo?\n- Sim")
-		}senao{ 
-			escreva("\n====RESULTADOS====")
-			escreva("\n\nÉ um triângulo?\n- Não")
+		se(A + B > C e A + C > B e B + C > A)
+		{ 
+			escreva("\n\n====RESULTADOS====\n")
+			escreva("É um triângulo?\n- Sim\n")
+			se (A == B e B == C)
+			{
+				escreva("==================\nQual o tipo do triângulo?\n- Equilátero\n==================\n")
+			}
+			senao se (A == B ou B == C ou A == C)
+			{
+				escreva("==================\nQual o tipo do triângulo?\n- Isósceles\n==================\n")
+			}
+			senao
+			{
+				escreva("==================\nQual o tipo do triângulo?\n- Escaleno\n==================\n")
+			}
 		}
-	
+		senao
+		{
+			escreva("\n====RESULTADOS====\n")
+			escreva("É um triângulo?\n- Não\n==================")
+		}
 	}
 }
