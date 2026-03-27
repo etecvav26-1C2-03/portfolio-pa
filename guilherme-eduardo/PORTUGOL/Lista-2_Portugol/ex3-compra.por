@@ -17,14 +17,22 @@ programa
 	
 	funcao inicio()
 	{
-		real v_compra, desconto10, v_final, desconto20
-		escreva("=================================================================\n                   CALCULADORA DE DESCONTOS\n=================================================================")
-		escreva("\n\nPara calcularmos o desconto insira o valor da compra efetuada.\n>>> ", "R$:")
+		real v_compra, desconto10, desconto20
+		escreva("CALCULADORA DE DESCONTOS")
+		escreva("\n\nPara calcularmos o desconto insira o valor da compra efetuada.\n>>> ", "R$")
 		leia(v_compra)
 		desconto10=v_compra*0.1
+		desconto20=v_compra*0.2
 		se(v_compra < 100){
-			escreva("\n=================================================================\nVocê conseguiu um desconto de 10% que será aplicado ao valor.")
-			escreva("\n\nA compra ficara no seguinte preço\n>>>", v_compra + desconto10)
+			escreva("Não há descontos para essa quantia de pagamento.")
+		}
+		senao se(v_compra <= 500){ 
+			escreva("Para este valor temos o desconto de 10%, iremos aplicar ele.")
+			escreva("\nValor da compra: R$", v_compra - desconto10)
+		}
+		senao{ 
+			escreva("Para este valor temos o desconto de 20%, iremos aplicar ele.")
+			escreva("\nValor da compra: R$", v_compra - desconto20)
 		}
 	}
 }
