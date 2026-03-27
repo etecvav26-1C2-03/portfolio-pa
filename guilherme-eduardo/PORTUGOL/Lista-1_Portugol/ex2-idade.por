@@ -14,6 +14,8 @@ programa
 		cadeia nome
 		inteiro anos, meses, dias
 
+		escreva("Calculadora de idade(anos, meses e dias)\n\n")
+		escreva("Para começar insira os seguintes dados:\n")
 		escreva("Digite o seu nome: ")
 		leia(nome)
 		escreva("Digite a sua idade (em anos): ")
@@ -21,7 +23,7 @@ programa
 		meses = anos * 12
 		dias = anos * 365
 		escreva("\nResultados:")
-		escreva("\nNome: ", nome)
+		escreva("\nSeu Nome: ", nome)
 		escreva("\nSua idade em anos: ", anos, " anos")
 		escreva("\nSua idade em meses: ", meses, " meses")
 		escreva("\nSua idade em dias: ", dias, " dias")
