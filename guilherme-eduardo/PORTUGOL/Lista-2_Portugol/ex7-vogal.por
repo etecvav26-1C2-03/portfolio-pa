@@ -10,8 +10,8 @@
 programa
 {
 	funcao inicio ()
-	{
-    caracter letra
+	{ 
+    cadeia letra
     escreva("Qual Letra Deseja Saber Se é Uma Vogal? ")
     leia(letra)
     se (letra =="a" ou letra == "A" ou letra == "e" ou letra == "E" ou letra == "i" ou letra == "I" ou letra == "o" ou letra == "O" ou letra == "u" ou letra == "U")
