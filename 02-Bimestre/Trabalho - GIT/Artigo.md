@@ -11,6 +11,9 @@
 - <!-- texto -->
 
 ## 3-Instalação e download.
+- <!-- texto -->
+### Exemplo
+- <!-- texto -->
 
 ## 4-Comandos básicos (init,add,commit,status,log).
 
