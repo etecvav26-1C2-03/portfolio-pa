@@ -2,6 +2,10 @@
 
 ## 1-Conceito de Git.
 
+## 2-Histórico e contexto.
+
+## 3-Instalação e download.
+
 ## 4-Comandos básicos (init,add,commit,status,log).
 
 ## 5-Exemplos práticos.
