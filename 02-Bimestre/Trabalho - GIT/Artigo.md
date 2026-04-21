@@ -16,6 +16,9 @@
 - <!-- texto -->
 
 ## 4-Comandos básicos (init,add,commit,status,log).
+- <!-- texto -->
+### Exemplo
+- <!-- texto -->
 
 ## 5-Exemplos práticos.
 
