@@ -4,10 +4,10 @@
 
 ## 4-Comandos básicos (init,add,commit,status,log).
 
-## 5-
+## 5-Exemplos práticos.
 
 ## 6-GitHub: conceito e finalidade.
 
 ## 7-Criação de conta.
 
-## 8-
+## 8-Integtração Git + GitHub (push,pull,clone).
