@@ -28,9 +28,14 @@ e o seu Log "Histórico", você pode ver todos os seus saves e voltar neles.
 * git log exibe o histórico de commits, permitindo visualizar todas as mudanças feitas ao longo do tempo.
 
 ## 5-Exemplos práticos.
-- <!-- texto -->
-### Exemplo
-- <!-- texto -->
+- O primeiro passo é utilizar o comando git init dentro da pasta do projeto para transformá-la em um repositório Git.
+Depois de criar ou editar arquivos, como um arquivo index.html, você pode usar git add index.html para preparar essa alteração. Em seguida, com git commit -m "ex: Adiciona página inicial", você registra essa mudança no histórico do projeto. Se quiser verificar o que foi modificado antes de salvar, pode usar git status, que mostrará os arquivos alterados e se eles já foram adicionados ou não. Para consultar o histórico de tudo que já foi feito no projeto, o comando git log permite visualizar todos os commits realizados. 
+
+### Github.
+Utilizando junto do Github, você pode enviar suas alterações para um repositório remoto com git push. Caso outra pessoa tenha feito mudanças no projeto, você pode atualizá-lo localmente usando git pull, garantindo que sua versão esteja sincronizada.
+
+### Branchs.
+Outro exemplo comum é o uso de ramificações. Se você quiser desenvolver uma nova funcionalidade sem afetar o código principal, pode criar uma nova branch com git branch nova-funcionalidade e acessá-la com git checkout nova-funcionalidade. Após finalizar, essa branch pode ser integrada ao projeto principal.
 
 ## 6-GitHub: conceito e finalidade.
 - <!-- texto -->
