@@ -4,7 +4,8 @@
 - O Git é um sistema de controle de versão distribuído, gratuito e de código aberto, projetado para rastrear alterações no código-fonte durante o desenvolvimento de software. Ele permite que múltiplos desenvolvedores colaborem, gerenciando histórico, ramos (branches) e fusões de forma eficiente, tratando dados como "fotografias" (snapshots) de arquivos em vez de apenas diferenças.
   
 ### Exemplo
-- <!-- texto -->
+- Fazendo uma analogia com os videos games seria o Commit o seu "Save",  você salva o estado atual. Se algo der errado, você pode "dar load" e voltar exatamente para aquele ponto.
+e o seu Log "Histórico", você pode ver todos os seus saves e voltar neles.
  
 ## 2-Histórico e contexto.
 - <!-- texto -->
@@ -17,9 +18,14 @@
 - <!-- texto -->
 
 ## 4-Comandos básicos (init,add,commit,status,log).
-- <!-- texto -->
+- Os comandos básicos do Git incluem init, add, commit, status e log, que são utilizados para o controle de versão local. Eles formam a base do funcionamento do Git, permitindo que o desenvolvedor acompanhe e registre alterações em arquivos ao longo do tempo sem depender de conexão com a internet ou de repositórios externos.
+
 ### Exemplo
-- <!-- texto -->
+* git init é usado para iniciar um novo repositório Git em uma pasta, permitindo que o versionamento comece.
+* git add adiciona arquivos ou alterações à área de preparação (staging area), indicando que estão prontos para serem salvos.
+* git commit registra definitivamente essas alterações no histórico do projeto, funcionando como um “ponto de salvamento”.
+* git status mostra o estado atual do repositório, indicando arquivos modificados, adicionados ou não rastreados.
+* git log exibe o histórico de commits, permitindo visualizar todas as mudanças feitas ao longo do tempo.
 
 ## 5-Exemplos práticos.
 - <!-- texto -->
