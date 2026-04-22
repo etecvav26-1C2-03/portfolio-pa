@@ -1,7 +1,8 @@
 # Artigo
 
 ## 1-Conceito de Git.
-- <!-- texto -->
+- O Git é um sistema de controle de versão distribuído, gratuito e de código aberto, projetado para rastrear alterações no código-fonte durante o desenvolvimento de software. Ele permite que múltiplos desenvolvedores colaborem, gerenciando histórico, ramos (branches) e fusões de forma eficiente, tratando dados como "fotografias" (snapshots) de arquivos em vez de apenas diferenças.
+  
 ### Exemplo
 - <!-- texto -->
  
