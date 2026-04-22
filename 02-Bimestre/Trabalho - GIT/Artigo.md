@@ -32,10 +32,10 @@ e o seu Log "Histórico", você pode ver todos os seus saves e voltar neles.
 Depois de criar ou editar arquivos, como um arquivo index.html, você pode usar git add index.html para preparar essa alteração. Em seguida, com git commit -m "ex: Adiciona página inicial", você registra essa mudança no histórico do projeto. Se quiser verificar o que foi modificado antes de salvar, pode usar git status, que mostrará os arquivos alterados e se eles já foram adicionados ou não. Para consultar o histórico de tudo que já foi feito no projeto, o comando git log permite visualizar todos os commits realizados. 
 
 ### Github.
-Utilizando junto do Github, você pode enviar suas alterações para um repositório remoto com git push. Caso outra pessoa tenha feito mudanças no projeto, você pode atualizá-lo localmente usando git pull, garantindo que sua versão esteja sincronizada.
+- Utilizando junto do Github, você pode enviar suas alterações para um repositório remoto com git push. Caso outra pessoa tenha feito mudanças no projeto, você pode atualizá-lo localmente usando git pull, garantindo que sua versão esteja sincronizada.
 
 ### Branchs.
-Outro exemplo comum é o uso de ramificações. Se você quiser desenvolver uma nova funcionalidade sem afetar o código principal, pode criar uma nova branch com git branch nova-funcionalidade e acessá-la com git checkout nova-funcionalidade. Após finalizar, essa branch pode ser integrada ao projeto principal.
+- Outro exemplo comum é o uso de ramificações. Se você quiser desenvolver uma nova funcionalidade sem afetar o código principal, pode criar uma nova branch com git branch nova-funcionalidade e acessá-la com git checkout nova-funcionalidade. Após finalizar, essa branch pode ser integrada ao projeto principal.
 
 ## 6-GitHub: conceito e finalidade.
 - <!-- texto -->
@@ -49,9 +49,10 @@ Outro exemplo comum é o uso de ramificações. Se você quiser desenvolver uma 
 
 
 ## 8-Integtração Git + GitHub (push,pull,clone).
-- <!-- texto -->
+- A integração entre Git e GitHub permite salvar projetos na nuvem e trabalhar em equipe. O Git controla as versões localmente, enquanto o GitHub armazena o repositório online. O comando git clone copia um projeto do GitHub para o computador. Já o git push envia as alterações locais para o repositório remoto. O git pull atualiza o projeto local com as mudanças feitas no GitHub. Esse processo garante que todos os colaboradores tenham acesso à versão mais recente do código e possam trabalhar de forma organizada.
+
 ### Exemplo
-- <!-- texto -->
+- um desenvolvedor usa git clone para baixar o projeto, faz alterações, executa git add e git commit para salvar localmente e depois usa git push para enviar ao GitHub. Outro membro da equipe utiliza git pull para atualizar o projeto em seu computador.
 
 ## 9-Conclusão.
 - <!-- texto -->
