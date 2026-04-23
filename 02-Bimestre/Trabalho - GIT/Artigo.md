@@ -49,7 +49,7 @@ Depois de criar ou editar arquivos, como um arquivo index.html, você pode usar 
 
 
 ## 8-Integtração Git + GitHub (push,pull,clone).
-- A integração entre Git e GitHub permite salvar projetos na nuvem e trabalhar em equipe. O Git controla as versões localmente, enquanto o GitHub armazena o repositório online. O comando git clone copia um projeto do GitHub para o computador.
+- A integração entre Git e GitHub permite salvar projetos na nuvem e trabalhar em equipe. O Git controla as versões localmente, enquanto o GitHub armazena o repositório online. O comando git clone copia um projeto do GitHub para o computador. Já o git push envia as alterações locais para o repositório remoto. O git pull atualiza o projeto local com as mudanças feitas no GitHub. Esse processo garante que todos os colaboradores tenham acesso à versão mais recente do código e possam trabalhar de forma organizada.
 
 ### Exemplo
 - um desenvolvedor usa git clone para baixar o projeto, faz alterações, executa git add e git commit para salvar localmente e depois usa git push para enviar ao GitHub. Outro membro da equipe utiliza git pull para atualizar o projeto em seu computador.
