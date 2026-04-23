@@ -35,6 +35,3 @@
 
 ---
 
-
-
-# 💻Linguagens usadas nesse portfolio
