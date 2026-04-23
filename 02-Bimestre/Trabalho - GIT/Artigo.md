@@ -50,9 +50,6 @@ Depois de criar ou editar arquivos, como um arquivo index.html, você pode usar 
 - o GitHub facilita conexões, permitindo que usuários contribuam com o trabalho de outros.
 - O github também armazena projetos com segurança na nuvem, garantindo acesso remoto e colaborativo.
 
-### Exemplo
-- <!-- texto -->
-
 ## 7-Criação de conta.
 - <!-- texto -->
 
