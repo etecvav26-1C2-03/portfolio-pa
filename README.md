@@ -10,8 +10,8 @@
 ---
 
 
-| Menção | Tipo| Atividade | Data Entrega |Link | Obs|
-|--------|-----|-----|-----|-|-|
+| Menção | Tipo| Atividade | Data Entrega | Dupla |Link | Obs|
+|--------|-----|-----|-----|-|-|-|
 | M1 | Questionário| ATV-CON-001-prog-introducao-programacao.md | 30/03/2026|[Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/blob/main/01-Bimestre/1B-M1-Questionario.md)| |
 | M2 | Lista de Execícios pg 15/16| ATV-POR-001-Lista-execicio-basico.md | 30/03/2026 | Eduardo e Guilherme |[Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/tree/main/01-Bimestre/eduardo-guilherme/portugol/Lista-01-Portugol)||
 | M3 | Lista de Execícios pg 15/16| ATV-POR-001-Lista-execicio-basico.md | 30/03/2026 | Felipe e Gabriel |[Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/tree/main/01-Bimestre/felipe-gabriel/portugol/Lista-1-portugol)||
