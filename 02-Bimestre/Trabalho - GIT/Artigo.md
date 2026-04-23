@@ -9,11 +9,13 @@ e o seu Log "Histórico", você pode ver todos os seus saves e voltar neles.
  
 ## 2-Histórico e contexto.
 - <!-- texto -->
+
 ### Exemplo
 - <!-- texto -->
 
 ## 3-Instalação e download.
 - <!-- texto -->
+
 ### Exemplo
 - <!-- texto -->
 
@@ -38,12 +40,16 @@ Depois de criar ou editar arquivos, como um arquivo index.html, você pode usar 
 - Outro exemplo comum é o uso de ramificações. Se você quiser desenvolver uma nova funcionalidade sem afetar o código principal, pode criar uma nova branch com git branch nova-funcionalidade e acessá-la com git checkout nova-funcionalidade. Após finalizar, essa branch pode ser integrada ao projeto principal.
 
 ## 6-GitHub: conceito e finalidade.
-- <!-- texto -->
+### Conceito
+- O GitHub utiliza o Git, um sistema de controle, para gerenciar as alterações em arquivos de um projeto.
+- Embora o Git funcione via linha de comando, o GitHub oferece uma interface web intuitiva e ferramentas visuais que tornam o controle de versão mais acessível.
+- 
 ### Exemplo
 - <!-- texto -->
 
 ## 7-Criação de conta.
 - <!-- texto -->
+
 ### Exemplo
 - <!-- texto -->
 
@@ -56,10 +62,12 @@ Depois de criar ou editar arquivos, como um arquivo index.html, você pode usar 
 
 ## 9-Conclusão.
 - <!-- texto -->
+
 ### Exemplo
 - <!-- texto -->
  
 ## 10-Referências.
 - <!-- texto -->
+
 ### Exemplo
 - <!-- texto -->
