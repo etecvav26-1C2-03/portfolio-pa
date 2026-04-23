@@ -43,7 +43,12 @@ Depois de criar ou editar arquivos, como um arquivo index.html, você pode usar 
 ### Conceito
 - O GitHub utiliza o Git, um sistema de controle, para gerenciar as alterações em arquivos de um projeto.
 - Embora o Git funcione via linha de comando, o GitHub oferece uma interface web intuitiva e ferramentas visuais que tornam o controle de versão mais acessível.
-- 
+- Os projetos no GitHub são chamados de "repositórios", que armazenam todo o código, arquivos e modificações.
+
+### Finalidade
+-  A principal finalidade é permitir que múltiplos desenvolvedores trabalhem no mesmo código simultaneamente, sem sobrescrever o trabalho alheio, assim
+-
+
 ### Exemplo
 - <!-- texto -->
 
