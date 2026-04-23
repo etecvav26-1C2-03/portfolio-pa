@@ -16,7 +16,7 @@
 | M2 | Lista de Execícios pg 15/16| ATV-POR-001-Lista-execicio-basico.md | 30/03/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/tree/main/01-Bimestre/eduardo-guilherme/portugol/Lista-01-Portugol)|Eduardo e Guilherme|
 | M3 | Lista de Execícios pg 15/16| ATV-POR-001-Lista-execicio-basico.md | 30/03/2026 | [Abrir](https://github.com/etecvav26-1C2-03/portfolio-pa/tree/main/01-Bimestre/felipe-gabriel/portugol/Lista-1-portugol)|Felipe e Gabriel|
 | M4 | Lista de Execícios pg 21/22| ATV-POR-002-Lista-execicio-CMD-SE.md | 10/04/2026 | [Abrir](#)|Nome do arquivo: 1BIM-M3-Lista-pg-21-22.md |
-| M5 | Portfólio| Análise do Github do grupo | 10/04/2026 | [Abrir]() | |
+| M5 | Portfólio| Análise do Github do grupo | 10/04/2026 | [Abrir]() |N/A|
 
 
 ---
