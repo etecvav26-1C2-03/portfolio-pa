@@ -23,7 +23,9 @@ e o seu Log "Histórico", você pode ver todos os seus saves e voltar neles.
 ### Exemplo
 * git init é usado para iniciar um novo repositório Git em uma pasta, permitindo que o versionamento comece.
 * git add adiciona arquivos ou alterações à área de preparação (staging area), indicando que estão prontos para serem salvos.
-* 
+* git commit registra definitivamente essas alterações no histórico do projeto, funcionando como um “ponto de salvamento”.
+* git status mostra o estado atual do repositório, indicando arquivos modificados, adicionados ou não rastreados.
+* git log exibe o histórico de commits, permitindo visualizar todas as mudanças feitas ao longo do tempo.
 
 ## 5-Exemplos práticos.
 - O primeiro passo é utilizar o comando git init dentro da pasta do projeto para transformá-la em um repositório Git.
