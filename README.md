@@ -3,8 +3,8 @@
 - Turma: 1C2
 - Disciplina: PA - PROGRAMAÇÃO E ALGORITIMOS
 - Grupo: Eduardo, Felipe, Gabriel e Guilherme
----
-### 📋 Cronograma - 1 Bimestre
+
+### 📋 Cronograma - 1 Bimestre 
 
 ---
 
