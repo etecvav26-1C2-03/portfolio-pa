@@ -1,4 +1,4 @@
-# ETECVAV - 2026
+# 📌portfolio-pa
 - Turma: 1C2
 - Disciplina: PA - PROGRAMAÇÃO E ALGORITIMOS
 - Grupo: Eduardo, Felipe, Gabriel e Guilherme
