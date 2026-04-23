@@ -22,9 +22,9 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1 | Questionário| ATV-CON-001-prog-introducao-programacao.md | 30/03/2026|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/conceitos/ATV-CON-001-prog-introducao-programacao.md)| |
-| M2 | Lista de Execícios pg 15/16| ATV-POR-001-Lista-execicio-basico.md | 30/03/2026 | [Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/portugol/ATV-POR-001-Lista-execicio-basico.md)||
-| M3 | Lista de Execícios pg 21/22| ATV-POR-002-Lista-execicio-CMD-SE.md | 10/04/2026 | [Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/portugol/ATV-POR-002-Lista-execicio-CMD-SE.md)|Nome do arquivo: 1BIM-M3-Lista-pg-21-22.md |
+| M1 | Questionário| ATV-CON-001-prog-introducao-programacao.md | 30/03/2026|[Abrir](#)| |
+| M2 | Lista de Execícios pg 15/16| ATV-POR-001-Lista-execicio-basico.md | 30/03/2026 | [Abrir](#)||
+| M3 | Lista de Execícios pg 21/22| ATV-POR-002-Lista-execicio-CMD-SE.md | 10/04/2026 | [Abrir](#)|Nome do arquivo: 1BIM-M3-Lista-pg-21-22.md |
 | M4 | Portfólio| Análise do Github do grupo | 10/04/2026|[Abrir]() | |
 
 
@@ -63,9 +63,9 @@ Caso sejam utilizadas fontes externas:
 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1 | Questionário| ATV-CON-001-prog-introducao-programacao.md | 30/03/2026|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/conceitos/ATV-CON-001-prog-introducao-programacao.md)| |
-| M2 | Lista de Execícios pg 15/16| ATV-POR-001-Lista-execicio-basico.md | 30/03/2026 | [Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/portugol/ATV-POR-001-Lista-execicio-basico.md)||
-| M3 | Lista de Execícios pg 21/22| ATV-POR-002-Lista-execicio-CMD-SE.md | 10/04/2026 | [Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/portugol/ATV-POR-002-Lista-execicio-CMD-SE.md)|Nome do arquivo: 1BIM-M3-Lista-pg-21-22.md |
+| M1 | Questionário| ATV-CON-001-prog-introducao-programacao.md | 30/03/2026|[Abrir](#)| |
+| M2 | Lista de Execícios pg 15/16| ATV-POR-001-Lista-execicio-basico.md | 30/03/2026 | [Abrir](#)||
+| M3 | Lista de Execícios pg 21/22| ATV-POR-002-Lista-execicio-CMD-SE.md | 10/04/2026 | [Abrir](#)|Nome do arquivo: 1BIM-M3-Lista-pg-21-22.md |
 | M4 | Portfólio| Análise do Github do grupo | 10/04/2026|[Abrir]() | |
 
 
