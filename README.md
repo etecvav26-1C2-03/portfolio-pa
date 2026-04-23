@@ -1,5 +1,6 @@
-## Turma: 1C2
-## Disciplina: PA - PROGRAMAÇÃO E ALGORITIMOS
+# ETECVAV - 2026
+- Turma: 1C2
+- Disciplina: PA - PROGRAMAÇÃO E ALGORITIMOS
 ### 📋 Cronograma - 1 Bimestre
 
 ---
