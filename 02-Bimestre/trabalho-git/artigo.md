@@ -8,7 +8,13 @@
 e o seu Log "Histórico", você pode ver todos os seus saves e voltar neles.
  
 ## 2-Histórico e contexto.
-- <!-- texto -->
+##### O que é o Git?
+- Ele é um sistema de controle de versão feito para registrar, organizar e acompanhar todas as alterações de um projeto. É extremamente útil para desenvolver projetos, como softwares, já que permite ver quem enviou uma atualização do projeto, o que mudou nessa atualização, quando ela foi feita e também visualizar uma lista das atualizações, onde é possível voltar para uma delas facilmente.
+
+##### Por que o Git surgiu?
+- Antigamente, no desenvolvimento do Linux, milhares de programadores trabalhavam juntos, e era necessário controlar todas as alterações feitas no código. Então, eles usavam o BitKeeper para manter tudo organizado. Porém, em 2005, aconteceu um problema relacionado à licença do programa, fazendo com que os desenvolvedores do Linux perdessem o direito de usar a versão gratuita do BitKeeper. Como essa era a principal ferramenta usada na organização do projeto, Linus Torvalds decidiu criar sua própria ferramenta para resolver esse problema: o Git.
+
+- <!-- Continua... --!>
 
 ### Exemplo
 - <!-- texto -->
