@@ -22,7 +22,7 @@ int main() {
     
 for (int i = 0; i <= num; i++) {
         cout << "2^" << i << " == " << res << endl;
-        result *= 2;
+        res *= 2;
     }
     return 0;
 }
