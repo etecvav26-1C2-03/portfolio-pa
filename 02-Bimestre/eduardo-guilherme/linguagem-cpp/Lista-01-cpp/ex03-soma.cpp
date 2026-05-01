@@ -1,4 +1,4 @@
-// Exercício 3 - C++
+// Exercício 3 - CPP
 // Ler vários números até que seja digitado um número negativo. Calcular e exibir a soma desses números.
 
 #include <iostream>
