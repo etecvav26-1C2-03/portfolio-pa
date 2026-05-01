@@ -20,4 +20,15 @@ int main() {
 
     cout << "Escreva o limite: ";
     cin >> lim;
+    
+    cout << "Multiplos de " << mult << " do 1 até " << lim << ": " << endl;
 
+    for (int i = 1; i <= lim; i++) {
+        if (i % mult == 0) {
+            cout << i << "  ";
+        }
+    }
+
+    cout << endl;
+    return 0;
+}
