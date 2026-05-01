@@ -23,3 +23,19 @@ int main() {
             maior = num;
             menor = num;
         }
+else {
+            if (num > maior) {
+                maior = num;
+            }
+            if (num < menor) {
+                menor = num;
+            }
+        }
+    }
+    cout << "maior numero = " << maior << endl;
+    cout << "menor numero = " << menor << endl;
+        
+    
+
+    return 0;
+}
