@@ -21,4 +21,20 @@ int main() {
     if (num < 2) {
         primo = false;
     } 
-   
+    else {
+        for (int i = 2; i <= num / 2; i++) {
+            if (num % i == 0) {
+                primo = false;
+                break;
+            }
+        }
+    }
+
+    if (primo) {
+        cout << num << " é primo." << endl;
+    } else {
+        cout << num << " não é primo.";
+    }
+
+    return 0;
+}
