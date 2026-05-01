@@ -19,3 +19,10 @@ int main() {
     
     cout << "escreva um numero: ";
     cin >> num;
+    
+for (int i = 0; i <= num; i++) {
+        cout << "2^" << i << " == " << res << endl;
+        result *= 2;
+    }
+    return 0;
+}
