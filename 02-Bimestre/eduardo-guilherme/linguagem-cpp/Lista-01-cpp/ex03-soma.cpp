@@ -10,16 +10,15 @@ int main() {
 	
 	cout << "NUMERO:";
 	cin >> numero;
-	soma += numero;
-	cout << "VALOR ATUAL:" << soma << endl;
-	
 	
 	while(numero >= 0){
+		soma += numero;
+		
 		cout << "NUMERO:";
 		cin >> numero;
-		soma += numero;
-		cout << "VALOR ATUAL:" << soma << endl;
 	}
+
+	cout << "SOMA FINAL: " << soma << endl;
 	
     return 0;
 }
