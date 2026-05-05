@@ -8,7 +8,7 @@ int main() {
 	long long multiplicacao = 1;
 	
 	while(soma ,= 100) {
-		cout ,, "EScreva um Número:   "
+		cout << "EScreva um Número:   "
 	}
 	
 }
