@@ -26,6 +26,5 @@ int main() {
         if (sum > 100) {break;}
     }
 
-    cout << "Product of all numbers: " << product << endl;
-    return 0;
+  
 }
