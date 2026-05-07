@@ -1,7 +1,7 @@
 /*
 * Instituição: EtecVAV - Vasco Antonio Vechiarutti
 *
-* Arquivo: 09ex_fixed.cpp
+* Arquivo: fibonacci.cpp
 * Data: 01/05/2026
 * Autor: Felipe Barbosa Santos
 * Descrição:
@@ -15,21 +15,23 @@ using namespace std;
 int main() {
     int limit;
 
-    cout << "Enter a number between 50 and 100: ";
+    cout << "Escreva um numero entre 50 e 100: ";
     cin >> limit;
 
+    //verificar se o número está entre 50 e 100
     if (limit < 50 || limit > 100) {
         cout << "Invalid number!" << endl;
         return 0;
     }
 
-    int prev = 0, curr = 1, next;
+    int ant = 0, atual = 1, prox;
 
-    while (prev <= limit) {
-        cout << prev << " ";
-        next = prev + curr;
-        prev = curr;
-        curr = next;
+    //calcular o fibonacci
+    while (ant <= limit) {
+        cout << ant << " ";
+        prox = ant + atual;
+        ant = atual;
+        atual = prox;
     }
 
     cout << endl;
