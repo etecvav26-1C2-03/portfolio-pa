@@ -16,10 +16,12 @@ using namespace std;
 int main() {
     int num = 0, cont = 0;
 
+    //escrever os números ate o negativo
     while (true) {
         cout << "escreva um número: " << endl;
         cin >> num;
         if (num < 0) {break;}
+    //somar eles
         cont += num;
 
     }
