@@ -25,13 +25,6 @@ int main() {
 
     int prev = 0, curr = 1, next;
 
-    while (prev <= limit) {
-        cout << prev << " ";
-        next = prev + curr;
-        prev = curr;
-        curr = next;
-    }
-
-    cout << endl;
+    
     return 0;
 }
