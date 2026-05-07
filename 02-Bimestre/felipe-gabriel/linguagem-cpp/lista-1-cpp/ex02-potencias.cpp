@@ -20,6 +20,7 @@ int main() {
     cout << "escreva um numero: ";
     cin >> num;
     
+// calcular e mostrar as potênias
 for (int i = 0; i <= num; i++) {
         cout << "2^" << i << " == " << res << endl;
         res *= 2;
