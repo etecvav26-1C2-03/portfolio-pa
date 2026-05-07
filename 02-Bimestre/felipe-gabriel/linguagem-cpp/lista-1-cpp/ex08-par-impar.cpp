@@ -26,6 +26,7 @@ int main() {
             somaim += i;
         }
     }
-   
+    cout << "soma dos pares: " << somapr << endl;
+    cout << "soma dos impares: " << somaim;
     return 0;
 }
