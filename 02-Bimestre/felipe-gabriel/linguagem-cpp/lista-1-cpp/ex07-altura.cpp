@@ -19,6 +19,13 @@ int main() {
     cout << "Number of people: ";
     cin >> peo;
 
+       for (int i = 0; i < peo; i++) {
+        cout << "Height of person " << i + 1 << ": ";
+        cin >> height;
+        sum += height;
+    }
+
+    cout << "Average height: " << sum / peo << endl;
  
     return 0;
 }
