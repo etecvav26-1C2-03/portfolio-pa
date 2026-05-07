@@ -1,7 +1,7 @@
 /*
 * Instituição: EtecVAV - Vasco Antonio Vechiarutti
 *
-* Arquivo: 06ex_fixed.cpp
+* Arquivo: soma100.cpp
 * Data: 01/05/2026
 * Autor: Felipe Barbosa Santos
 * Descrição:
@@ -14,15 +14,16 @@ using namespace std;
 
 int main() {
     int number;
-    long long sum = 0, product = 1;
+    long long som = 0, mult = 1;
 
+    //loop para digitar os números
     while (true) {
         cout << "Enter a number: ";
         cin >> number;
 
-        sum += number;
-        product *= number; 
-
+        som += number;
+        mult *= number; 
+        //terminar a soma quando chegra a 100
         if (sum > 100) {break;}
     }
 
