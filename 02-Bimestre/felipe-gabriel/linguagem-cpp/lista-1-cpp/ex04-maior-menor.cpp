@@ -15,18 +15,22 @@ using namespace std;
 
 int main() {
     int num, maior, menor;
-    
+
+    //ler os 10 números
     for (int i = 0; i < 10; i++) {
         cout << "Escreva um numero: " << "loop [" << i + 1 << "]" << endl;
         cin >> num;
+        //ver o primeiro numero
         if (i == 0) {
             maior = num;
             menor = num;
         }
 else {
+            // ver maior numero
             if (num > maior) {
                 maior = num;
             }
+            //ver menor numero
             if (num < menor) {
                 menor = num;
             }
