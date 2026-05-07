@@ -1,7 +1,7 @@
 /*
 * Instituição: EtecVAV - Vasco Antonio Vechiarutti
 *
-* Arquivo: 07ex_fixed.cpp
+* Arquivo: altura.cpp
 * Data: 01/05/2026
 * Autor: Felipe Barbosa Santos
 * Descrição:
@@ -13,19 +13,20 @@
 using namespace std;
 
 int main() {
-    int peo;
-    float height, sum = 0.0f; // initialized to 0 — this was the bug
+    int pes;
+    float alt, som = 0.0f;
 
-    cout << "Number of people: ";
-    cin >> peo;
+    cout << "número de pessoas ";
+    cin >> pes;
 
-       for (int i = 0; i < peo; i++) {
-        cout << "Height of person " << i + 1 << ": ";
-        cin >> height;
-        sum += height;
+       //calcular a média da altura
+       for (int i = 0; i < pes; i++) {
+        cout << "Altura da pessoa " << i + 1 << ": ";
+        cin >> alt;
+        sum += alt;
     }
 
-    cout << "Average height: " << sum / peo << endl;
+    cout << "Altura média: " << som / pes << endl;
  
     return 0;
 }
