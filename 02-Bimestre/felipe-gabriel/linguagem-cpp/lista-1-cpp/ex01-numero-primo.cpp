@@ -18,9 +18,11 @@ int main() {
     cout << "Escreva um número: ";
     cin >> num;
 
+    //verificar se o número é divisivel por 2
     if (num < 2) {
         primo = false;
     } 
+    // verificar se é primo
     else {
         for (int i = 2; i <= num / 2; i++) {
             if (num % i == 0) {
@@ -29,7 +31,7 @@ int main() {
             }
         }
     }
-
+    // resultado
     if (primo) {
         cout << num << " é primo." << endl;
     } else {
