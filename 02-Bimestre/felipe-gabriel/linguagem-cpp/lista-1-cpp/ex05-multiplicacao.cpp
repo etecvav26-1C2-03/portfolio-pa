@@ -23,6 +23,7 @@ int main() {
     
     cout << "Multiplos de " << mult << " do 1 até " << lim << ": " << endl;
 
+    // fazer os multiplos
     for (int i = 1; i <= lim; i++) {
         if (i % mult == 0) {
             cout << i << "  ";
