@@ -37,7 +37,9 @@ e o seu Log "Histórico", você pode ver todos os seus saves e voltar neles.
 <img width="384" height="110" alt="Git-Dowload" src="https://github.com/user-attachments/assets/ab4fbff0-51ce-4d32-ad0c-2961a9308658" />
 
 6. Prossiga apertando em "Next" em todas as coisas até o programa ser baixado. E depois aperte em "Finish" para terminar.
-(OBS: Caso queira configurar o local da instalação, mude as opções conforme aparecerem. Caso não ligue para isso, apenas siga com o passo a passo.)
+
+- (OBS: Caso queira configurar o local da instalação, mude as opções conforme aparecerem. Caso não ligue para isso, apenas siga com o passo a passo.)
+
 <img width="595" height="463" alt="Next-Dowload" src="https://github.com/user-attachments/assets/ab1ea838-06bf-420a-9278-b9f77322cb7a" />
 
 7. Agora o Git já está funcionando na sua máquina.
