@@ -43,11 +43,6 @@ e o seu Log "Histórico", você pode ver todos os seus saves e voltar neles.
 7. Agora o Git já está funcionando na sua máquina.
 
 
-
-
-### Exemplo
-- <!-- texto -->
-
 ## 4-Comandos básicos (init,add,commit,status,log).
 - Os comandos básicos do Git incluem init, add, commit, status e log, que são utilizados para o controle de versão local. Eles formam a base do funcionamento do Git, permitindo que o desenvolvedor acompanhe e registre alterações em arquivos ao longo do tempo sem depender de conexão com a internet ou de repositórios externos.
 
