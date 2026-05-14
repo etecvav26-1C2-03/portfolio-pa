@@ -90,6 +90,7 @@ Depois de criar ou editar arquivos, como um arquivo index.html, você pode usar 
 ## 9-Conclusão.
 
 O Git e o GitHub mudaram completamente a maneira como os softwares são desenvolvidos hoje. Com eles, equipes conseguem trabalhar juntas de forma organizada, acompanhar cada mudança feita no projeto e manter tudo muito mais seguro e eficiente.
+
 Aprender os comandos básicos e entender como enviar e receber alterações entre o computador e o repositório online é um dos primeiros passos essenciais para quem quer crescer na área de tecnologia. Além de facilitar o trabalho em equipe, essas ferramentas ajudam a criar projetos mais profissionais e bem estruturados desde o início.
 ## 10-Referências.
 - <!-- texto -->
