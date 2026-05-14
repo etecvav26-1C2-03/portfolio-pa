@@ -71,16 +71,15 @@ Depois de criar ou editar arquivos, como um arquivo index.html, você pode usar 
 - Embora o Git funcione via linha de comando, o GitHub oferece uma interface web intuitiva e ferramentas visuais que tornam o controle de versão mais acessível.
 - Os projetos no GitHub são chamados de "repositórios", que armazenam todo o código, arquivos e modificações.
 
-### Finalidade
+### Finalidade:
 -  A principal finalidade é permitir que múltiplos desenvolvedores trabalhem no mesmo código simultaneamente, sem sobrescrever o trabalho alheio, assim o GitHub facilita conexões, permitindo que usuários contribuam com o trabalho de outros.
 - O github também armazena projetos com segurança na nuvem, garantindo acesso remoto e colaborativo.
 
 ## 7-Criação de conta.
 - <!-- texto -->
 
-### Exemplo
-- <!-- texto -->
-
+### Passos para criar a conta:
+-  Acesse o site do GitHub e clique no botão "Sign up" no canto. Digite um e-mail e crie uma senha boa. Escolha um nome de usuário e então um código será enviado para o seu e-mail.
 
 ## 8-Integtração Git + GitHub (push,pull,clone).
 - A integração entre Git e GitHub permite salvar projetos na nuvem e trabalhar em equipe. O Git controla as versões localmente, enquanto o GitHub armazena o repositório online. O comando git clone copia um projeto do GitHub para o computador. Já o git push envia as alterações locais para o repositório remoto. O git pull atualiza o projeto local com as mudanças feitas no GitHub. Esse processo garante que todos os colaboradores tenham acesso à versão mais recente do código e possam trabalhar de forma organizada.
