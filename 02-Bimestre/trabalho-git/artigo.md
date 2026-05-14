@@ -79,7 +79,7 @@ Depois de criar ou editar arquivos, como um arquivo index.html, você pode usar 
 - <!-- texto -->
 
 ### Passos para criar a conta:
--  Acesse o site do GitHub e clique no botão "Sign up" no canto. Digite um e-mail e crie uma senha boa. Escolha um nome de usuário e então um código será enviado para o seu e-mail.
+-  Acesse o site do GitHub e clique no botão "Sign up" no canto. Digite um e-mail e crie uma senha boa. Escolha um nome de usuário e então um código será enviado para o seu e-mail. Coloque-o no site e responda as perguntas sobre o seu perfil, ou pule esta parte. Então o seu painel (dashboard) será aberto, confirmando a criação da conta.
 
 ## 8-Integtração Git + GitHub (push,pull,clone).
 - A integração entre Git e GitHub permite salvar projetos na nuvem e trabalhar em equipe. O Git controla as versões localmente, enquanto o GitHub armazena o repositório online. O comando git clone copia um projeto do GitHub para o computador. Já o git push envia as alterações locais para o repositório remoto. O git pull atualiza o projeto local com as mudanças feitas no GitHub. Esse processo garante que todos os colaboradores tenham acesso à versão mais recente do código e possam trabalhar de forma organizada.
