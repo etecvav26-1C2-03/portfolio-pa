@@ -6,11 +6,13 @@ int main(int argc, char** argv) {
 	
 	cout << "Digite o valor da base:";
 	cin >> b;
+	r = b;
 	
 	cout << "Agora insira o valor do expoente:";
 	cin >> e;
 	
-	for (int i = 1;i == e;i++){
+	for (int i = 0; i != e; i++) {
+		cout << r << endl;
 		r *= b;
 		cout << r << endl;
 	}
