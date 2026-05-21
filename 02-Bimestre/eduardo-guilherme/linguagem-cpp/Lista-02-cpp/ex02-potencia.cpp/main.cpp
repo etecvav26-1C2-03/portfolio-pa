@@ -1,21 +1,29 @@
 #include <iostream>
-using namespace std;
+
+int potencia(int b, int e){
+    int r = 1;
+		
+    for(int i = 0; i != e; i++){
+        r *= b;
+    }
+		
+    return r;	
+}
 
 int main(int argc, char** argv) {
-	int b, e, r;
+    int b, e;
 	
-	cout << "Digite o valor da base:";
-	cin >> b;
-	r = b;
+    std::cout << "Digite o valor da base: ";
+    std::cin >> b;
 	
-	cout << "Agora insira o valor do expoente:";
-	cin >> e;
+    std::cout << "Agora insira o valor do expoente: ";
+    std::cin >> e;
+    
+    for(int i = 1; i <= e; i++){
+        
+        int resultado = potencia(b, i); 
+        std::cout << resultado << std::endl;
+    }
 	
-	for (int i = 0; i != e; i++) {
-		cout << r << endl;
-		r *= b;
-		cout << r << endl;
-	}
-	
-	return 0;
+    return 0;
 }
