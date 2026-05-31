@@ -26,6 +26,6 @@ int main() {
         cin >> r[i];
         sum += area(r[i]);
     }
-    
+    cout << "soma das areas: " << sum << endl;
     return 0;
 }
