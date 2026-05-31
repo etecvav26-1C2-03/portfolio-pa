@@ -26,6 +26,12 @@ int main() {
     cout << "---- Calculator ----" << endl;
     cout << "choice [+] [-] [*] [/]" << endl;
     cin >> choice >> n1 >> n2;
+
+    if (choice == '+') cout << sum(n1, n2);
+    else if (choice == '-') cout << sub(n1, n2);
+    else if (choice == '*') cout << multi(n1, n2);
+    else if (choice == '/') cout << divi(n1, n2);
+    else cout << "invalid";
     
     return 0;
 }
