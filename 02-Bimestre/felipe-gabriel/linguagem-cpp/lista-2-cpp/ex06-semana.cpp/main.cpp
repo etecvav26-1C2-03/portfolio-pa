@@ -2,8 +2,8 @@
 * Instituição: EtecVAV - Vasco Antonio Vechiarutti
 *
 * Arquivo: ex06.cpp
-* Data: 01/06/2026
-* Autor: Felipe Barbosa Santos
+* Data: 31/05/2026
+* Autor: Gabriel Fernandes Barbarini
 * Descrição:
 * Ler um número. Exibir o dia da semana correspondente.
 * Criar uma função para essa verificação.
