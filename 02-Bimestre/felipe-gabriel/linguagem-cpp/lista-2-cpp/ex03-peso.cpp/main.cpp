@@ -1,0 +1,31 @@
+/*
+* Instituição: EtecVAV - Vasco Antonio Vechiarutti
+*
+* Arquivo: ex03.cpp
+* Data: 30/05/2026
+* Autor: Gabriel Fernandes Barbarini
+* Descrição:
+* Ler o sexo e a altura. Calcular o peso ideal.
+* Masculino: 72.7 * altura - 58 | Feminino: 62.1 * altura - 44.7
+* Criar uma função para cada caso.
+*/
+
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+float masc(float high) {
+    return 72.7 * high - 58;
+}
+
+float fem(float high) {
+    return 62.1 * high - 44.7;
+}
+
+int main() {
+    string sex;
+    float high;
+    cin >> sex >> high;
+    
