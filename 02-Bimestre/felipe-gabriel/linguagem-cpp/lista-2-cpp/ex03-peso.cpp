@@ -28,4 +28,14 @@ int main() {
     string sex;
     float high;
     cin >> sex >> high;
-    
+    if (sex == "Masculino") {
+        cout << masc(high);
+    }
+    else if (sex == "Feminino") {
+        cout << fem(high);
+    }
+    else {
+        cout << "write Feminino or Masculino";
+    }
+    return 0;
+}
