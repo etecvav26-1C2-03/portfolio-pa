@@ -25,4 +25,17 @@ bool impar() {
             found = true;
         }
     }
-    
+    if (found) {
+        cout << sum;
+    }
+    else {
+        cout << "write a number N > 0";
+    }
+    return found;
+}
+
+int main() {
+    impar();
+    return 0;
+}
+}
