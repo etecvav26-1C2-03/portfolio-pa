@@ -97,7 +97,8 @@ Aprender os comandos básicos e entender como enviar e receber alterações entr
 Para continuar aprendendo e evoluindo, o ideal é colocar a mão na massa: crie o seu primeiro repositório, teste os comandos no terminal e comece a subir os seus próprios projetos. A prática constante é o que vai te dar confiança no dia a dia do desenvolvimento!
 
 ## 10-Referências.
-- <!-- texto -->
+#### Referências usadas:
+- Maior parte das pesquisas do git foram feitas no próprio site do Git e também de vídeos do youtube (tutoriais) explicando várias utilidades sobre as ferramentas.
+###### Git:
+- https://git--scm-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc
 
-### Exemplo
-- <!-- texto -->
