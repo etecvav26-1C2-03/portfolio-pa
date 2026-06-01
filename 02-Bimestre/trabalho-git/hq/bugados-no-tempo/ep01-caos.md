@@ -9,4 +9,4 @@
 
 
 ## HQ:
-- Não mano!! Eu apaguei o arquivo 'site_muito_importante.html'
+- Não mano!! Eu apaguei o arquivo "site_muito_importante.html"! Cara eu estava no fim... <br> -- Diz Guilherme
