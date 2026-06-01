@@ -102,3 +102,6 @@ Para continuar aprendendo e evoluindo, o ideal é colocar a mão na massa: crie 
 ###### Git:
 - https://git--scm-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc
 
+###### Youtube:
+- https://www.youtube.com
+
