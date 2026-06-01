@@ -76,7 +76,6 @@ Depois de criar ou editar arquivos, como um arquivo index.html, você pode usar 
 - O github também armazena projetos com segurança na nuvem, garantindo acesso remoto e colaborativo.
 
 ## 7-Criação de conta.
-- <!-- texto -->
 
 ### Passos para criar a conta:
 -  Acesse o site do GitHub e clique no botão "Sign up" no canto. Digite um e-mail e crie uma senha boa. Escolha um nome de usuário e então um código será enviado para o seu e-mail. Coloque-o no site e responda as perguntas sobre o seu perfil, ou pule esta parte. Então o seu painel (dashboard) será aberto, confirmando a criação da conta.
