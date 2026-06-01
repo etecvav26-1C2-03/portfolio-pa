@@ -17,3 +17,14 @@
 ###### Guilherme mostra pasta: site_final, site_final2, site_final_novo, site_final_CLIENTE  
 - Eu só queria voltar pra versão de ontem antes daquele bug...  <br> -- Guilherme responde.
 
+###### Gabriel tem uma ideia:
+- Mano, eu tive uma ideia para te ajudar!! Mas você precisa conhecer o Git primeiro. <br> -- Gabriel soluciona.
+
+###### Gabriel vai para a lousa e começa a explicar sobre o Git.
+- Primeiramente, você deve pensar no Git como o "botão de save de um jogo", só que é adaptado para códigos. <br> -- Gabriel explica.
+
+- Hmmmmm, então é como se eu estivesse com um checkpoint no jogo? <br> -- Guilherme diz.
+
+- Exato! Como um checkpoint de um jogo, caso um commit tenha um erro você pode voltar ele como se nada tivesse acontecido. <br> -- Gabriel responde.
+
+
