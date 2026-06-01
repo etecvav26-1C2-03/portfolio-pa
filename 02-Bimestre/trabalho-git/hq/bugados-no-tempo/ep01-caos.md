@@ -9,4 +9,7 @@
 
 
 ## HQ:
-- Não mano!! Eu apaguei o arquivo "site_muito_importante.html"! Cara eu estava no fim... <br> -- Diz Guilherme
+- Não mano!! Eu apaguei o arquivo "site_muito_importante_final.html"! Cara eu estava no fim... <br> -- Diz Guilherme.
+
+###### Passos são ouvidos.
+- Cara não é possivel! Quantas versões do "final" você já tem aí? <br> -- Gabriel proclama.
