@@ -13,3 +13,7 @@
 
 ###### Passos são ouvidos.
 - Cara não é possivel! Quantas versões do "final" você já tem aí? <br> -- Gabriel proclama.
+
+###### Guilherme mostra pasta: site_final, site_final2, site_final_novo, site_final_CLIENTE  
+- Eu só queria voltar pra versão de ontem antes daquele bug...  <br> -- Guilherme responde.
+
