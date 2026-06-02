@@ -27,4 +27,30 @@
 
 - Exato! Como um checkpoint de um jogo, caso um commit tenha um erro você pode voltar ele como se nada tivesse acontecido. <br> -- Gabriel responde.
 
+###### Enquanto gabriel explica, alguém se aproxima...
+- Gabriel começa a mostrar 3 caixinhas: "Working", "Staging", "Repository".
 
+- Opa gabriel estou curioso sobre isso, eu ouvi meio de longe mas pode me falar também? <br> -- Diz Richard.
+
+- Você pode mexer no código e usar os seguintes comandos: git add pra separar o que vai salvar, git commit pra postar as mudanças. <br> -- Gabriel explica.
+
+- Tá, mas e se eu quiser mandar pro Felipe revisar? <br> -- Richard pergunta.
+
+- Daí você pode entrar no GitHub. Ele é basicamente o Google Drive dos Devs só que melhorado. <br> -- Gabriel responde.
+
+###### Eduardo entra bravo na sala:
+
+- Gente o cliente quer 2 versões do site ao mesmo tempo! Ele quer uma azul e uma verde! <br> -- Diz Eduardo.
+
+- QUEEE! Vamos ter que duplicar toda a pasta? - Guilherme diz em pânico.
+
+###### Gabriel e Felipe calmos, criando branches na tela.  
+- Nops. No Git a gente usa branch. Que é tipo um universo paralelo.  <br> -- Diz Gabriel
+
+- É só criar um git branch tema-azul pra mim e um git branch tema-verde pro Samuel. Daí cada um pode mexer no seu. <br> -- Diz Felipe.
+
+###### Felipe e Samuel em telas separadas via call, depois juntando o código.  
+- Cara quando terminar, a gente faz merge. Para podermos juntar tudo sem ter dor de cabeça. <br> -- Diz Gabriel.  
+
+Tá mas e se eu e o Felipe editarmos a mesma linha do código? <br> -- Pergunta Guilherme.  
+ 
