@@ -52,5 +52,13 @@
 ###### Felipe e Samuel em telas separadas via call, depois juntando o código.  
 - Cara quando terminar, a gente faz merge. Para podermos juntar tudo sem ter dor de cabeça. <br> -- Diz Gabriel.  
 
-Tá mas e se eu e o Felipe editarmos a mesma linha do código? <br> -- Pergunta Guilherme.  
+- Tá mas e se eu e o Felipe editarmos a mesma linha do código? <br> -- Pergunta Guilherme.  
+
+- Aí dá conflito. Mas o GitHub te mostra onde e a gente decide qual versão fica. <br> -- Diz Felipe.
+
+- Cara eu estou impressionado vendo esses gráficos de commits! <br> -- Diz Eduardo.  
+
+- Vocês conseguem ver quem mexeu em cada linha? E quando?  <br> -- Eduardo complementa.
+
+- Sim. É o git blame. Não pra culpar, mas pra entender o histórico. <br> -- Diz Gabriel.
  
