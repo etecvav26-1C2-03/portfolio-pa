@@ -76,3 +76,17 @@
 ###### Eduardo abraçando Guilherme e Gabriel.  
 - De "site_final_v27" pra deploy profissional. Vocês merecem aumento. <br> -- Diz Eduardo.
 ###### Guilherme sussurra pro Gabriel Eu ainda vou te pagar aquele café...
+
+###### Guilherme agora ensinando Richard.
+- Então, versionamento é sobre 3 coisas: segurança, colaboração e história.  
+
+- História? Como assim? <br> -- Diz Richard.
+
+###### Gabriel fecha o notebook, olhando pro leitor. Felipe e Samuel ao fundo.  
+- É. Sem Git, você perde código. Com Git, você perde o medo de errar. <br> -- Diz Gabriel. 
+
+- Porque todo erro vira um commit novo, não uma catástrofe. <br> -- Diz Felipe.
+
+
+###### Narrador
+- FIM... ou só o primeiro commit da sua carreira?
