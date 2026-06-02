@@ -61,4 +61,18 @@
 - Vocês conseguem ver quem mexeu em cada linha? E quando?  <br> -- Eduardo complementa.
 
 - Sim. É o git blame. Não pra culpar, mas pra entender o histórico. <br> -- Diz Gabriel.
- 
+
+- Gente então toda empresa grande tipo Netflix, Google, usa isso? <br> -- Richard Pergunta. 
+
+- Sim. Porque sem versionamento, 100 devs no mesmo projeto vira guerra. <br> -- Gabriel responde.
+
+
+###### Samuel entra na call: 
+- Com Git/GitHub a empresa ganha: 1. Backup de tudo, 2. Trabalho em equipe, 3. Voltar no tempo, 4. Código revisado via Pull Request. <br> -- Diz Gabriel
+
+- E eu consigo trabalhar de casa sem quebrar o código de ninguém. <br> -- Diz Richard.
+
+
+###### Eduardo abraçando Guilherme e Gabriel.  
+- De "site_final_v27" pra deploy profissional. Vocês merecem aumento. <br> -- Diz Eduardo.
+###### Guilherme sussurra pro Gabriel Eu ainda vou te pagar aquele café...
