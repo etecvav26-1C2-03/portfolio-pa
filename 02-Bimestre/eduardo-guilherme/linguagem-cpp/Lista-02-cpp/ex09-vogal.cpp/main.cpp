@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 
+//Função para trocar as vogais:
 std::string substituirVogais(std::string palavra)
 {
     for (int i = 0; i < palavra.length(); i++)
@@ -17,16 +18,21 @@ std::string substituirVogais(std::string palavra)
 
     return palavra;
 }
+//-----------------------------
 
 int main()
 {
     std::string palavra;
 
+    //Lendo palavra:
     std::cout << "Digite uma palavra: ";
     std::cin >> palavra;
+    //-----------------
 
+    //Mostrando palavra depois de substituir vogais:
     std::cout << "\nResultado: "
               << substituirVogais(palavra);
-
+    //----------------------------------
+    
     return 0;
 }

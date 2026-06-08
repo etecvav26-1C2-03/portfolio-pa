@@ -1,5 +1,6 @@
 #include <iostream>
 
+//Função calculando potência
 int potencia(int b, int e){
     int r = 1;
 		
@@ -12,13 +13,15 @@ int potencia(int b, int e){
 
 int main(int argc, char** argv) {
     int b, e;
-	
+	//Lê numero
     std::cout << "Digite o valor da base: ";
     std::cin >> b;
 	
     std::cout << "Agora insira o valor do expoente: ";
     std::cin >> e;
+    //----------
     
+    //Laço para fazer a potência
     for(int i = 1; i <= e; i++){
         
         int resultado = potencia(b, i); 

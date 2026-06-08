@@ -1,7 +1,9 @@
 #include <iostream>
 #include <string>
 
+//Função para verificar a ordem dos números:
 std::string comparacao(int n1, int n2, int n3, int n4, int n5){
+	//Peneração Crescente
 	if (n5 > n4){
 		if(n4 > n3){
 			if(n3 > n2){
@@ -17,6 +19,9 @@ std::string comparacao(int n1, int n2, int n3, int n4, int n5){
 		
 		return "Nao ordenados.";
 	}
+	//---------------------------
+
+	//Peneração Decrescente
 	else if (n1 > n2){
 		if (n2 > n3){
 			if(n3 > n4){
@@ -32,15 +37,17 @@ std::string comparacao(int n1, int n2, int n3, int n4, int n5){
 		
 		return "Nao ordenados.";
 	}
-	
+	//------------------------------
+	//Caso não seja nenhum dos casos ele retorna normalmente.
 	return "Nao ordenados.";
 }
-
+//---------------------------
 
 int main() {
     int n1, n2, n3, n4, n5;
     std::string valor;
     
+	//Lendo numeros:
     std::cout << "Insira 5 numeros:\n\nN1>> ";
     std::cin >> n1;
     
@@ -55,11 +62,13 @@ int main() {
     
     std::cout << "N5>> ";
     std::cin >> n5;
+	//-------------------------
     
-    valor = comparacao(n1, n2, n3, n4, n5);
+    //Resultados da função:
+	valor = comparacao(n1, n2, n3, n4, n5);
     
     std::cout << "\n------ RESULTADOS ------\n\nOs numeros estavam em ordem:\n\n>> " << valor;
-
+	//-----------------------
 
     return 0;
 }

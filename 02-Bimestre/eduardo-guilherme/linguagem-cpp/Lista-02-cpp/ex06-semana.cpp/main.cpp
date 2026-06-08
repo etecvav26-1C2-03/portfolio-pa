@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 
+//Função que diz o dia da semana:
 std::string semana(int n1){
 	if(n1 == 1){
 		return "Segunda-Feira.";
@@ -26,18 +27,22 @@ std::string semana(int n1){
 	
 	return "*Erro... Numero invalido*";
 }
+//-----------------------
 
 int main() {
     int n1;
     std::string d_semana;
 
+	//Lendo numero:
     std::cout << "Insira um numero (1 a 7):\n\n>> ";
     std::cin >> n1;
-	
+	//--------------
+
+	//Resultado do dia da semana:
 	d_semana = semana(n1);
 	
 	std::cout << "\n\nDia da semana correspondente:\n\n>> " << d_semana;
-	
+	//------------------------------
    
     return 0;
 }

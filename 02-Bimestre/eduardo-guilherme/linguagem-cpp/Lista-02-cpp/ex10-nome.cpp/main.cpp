@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 
+//Fazendo contagem das vogais:
 int contarVogais(std::string nome)
 {
     int vogais = 0;
@@ -18,7 +19,9 @@ int contarVogais(std::string nome)
 
     return vogais;
 }
+//-------------------------
 
+//Contagem das consoantes:
 int contarConsoantes(std::string nome)
 {
     int consoantes = 0;
@@ -41,19 +44,24 @@ int contarConsoantes(std::string nome)
 
     return consoantes;
 }
+//-----------------------------
 
 int main()
 {
     std::string nome;
 
+    //Lendo o valor de nome:
     std::cout << "Digite seu nome completo:\n\n>> ";
     std::getline(std::cin, nome);
+    //-----------------
 
+    //Exibição dos valores de vogais e consoantes:
     std::cout << "\nQuantidade de vogais: "
               << contarVogais(nome);
 
     std::cout << "\nQuantidade de consoantes: "
               << contarConsoantes(nome);
+    //--------------------------------------
 
     return 0;
 }
