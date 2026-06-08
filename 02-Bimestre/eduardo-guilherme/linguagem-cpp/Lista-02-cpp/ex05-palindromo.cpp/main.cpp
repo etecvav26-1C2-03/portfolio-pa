@@ -1,12 +1,33 @@
 #include <iostream>
 #include <string>
 
-int main(int argc, char** argv) {
-	std::string palavra;
-	
-	std::cout << "Escreva uma palavra para verificarmos ela:\n\n>> ";
-	std::cin >> palavra;
+bool palindromo(std::string palavra) {
+    int inicio = 0;
+    int fim = palavra.length() - 1;
 
+    while (inicio < fim) {
+        if (palavra[inicio] != palavra[fim]) {
+            return false;
+        }
 
-	return 0;
+        inicio++;
+        fim--;
+    }
+
+    return true;
+}
+
+int main() {
+    std::string palavra;
+
+    std::cout << "Digite uma palavra:\n\n>> ";
+    std::cin >> palavra;
+
+    if (palindromo(palavra)) {
+        std::cout << "\n\n------ CONCLUSAO ------\n\n>> Palindromo!";
+    } else {
+        std::cout << "\n\n------ CONCLUSAO ------\n\n>> Nao e um palindromo!";
+    }
+
+    return 0;
 }
