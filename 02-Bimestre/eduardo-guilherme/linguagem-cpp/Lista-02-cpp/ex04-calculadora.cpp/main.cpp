@@ -1,3 +1,14 @@
+//Nome: Eduardo Antônio de Oliveira Bargueiras 
+//Turma: 1C2
+//Instituição: ETECVAV - Vasco Antônio Venchiarutti
+//Enunciado: 
+//4) Ler dois números inteiros e calcular:
+//Adição
+//Subtração
+//Multiplicação
+//Divisão
+//➡️ Criar uma função para cada operação.
+
 #include <iostream>
 
 //Funções de cálculo:
@@ -56,7 +67,7 @@ int main(int argc, char** argv) {
 	std::cout << n1 << " * " << n2 << " = " << resultado_multiplicacao << "\n\nDivisao:\n>> ";
 	std::cout << n1 << " / " << n2 << " = " << resultado_divisao << "\n\n------------------------";
 	//----------------------------------------------
-	
+
 	return 0;
 }
 

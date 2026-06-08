@@ -1,3 +1,13 @@
+//Nome: Eduardo Antônio de Oliveira Bargueiras 
+//Turma: 1C2
+//Instituição: ETECVAV - Vasco Antônio Venchiarutti
+//Enunciado: 
+//3) Ler o sexo e a altura.
+//Calcular o peso ideal:
+//Masculino: 72,7 × altura - 58
+//Feminino: 62,1 × altura - 44,7
+//➡️ Criar uma função para cada caso.
+
 #include <iostream>
 
 //Função masculino

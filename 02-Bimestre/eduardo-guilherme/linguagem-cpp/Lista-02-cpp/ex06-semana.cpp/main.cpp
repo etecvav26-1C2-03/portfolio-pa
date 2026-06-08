@@ -1,3 +1,11 @@
+//Nome: Eduardo Antônio de Oliveira Bargueiras
+//Turma: 1C2
+//Instituição: ETECVAV - Vasco Antônio Venchiarutti
+//Enunciado: 
+//6) Ler um número.
+//Exibir o dia da semana correspondente.
+//➡️ Criar uma função para essa verificação.
+
 #include <iostream>
 #include <string>
 

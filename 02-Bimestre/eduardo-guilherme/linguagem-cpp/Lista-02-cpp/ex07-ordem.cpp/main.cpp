@@ -1,3 +1,14 @@
+//Nome: Eduardo Antônio de Oliveira Bargueiras 
+//Turma: 1C2
+//Instituição: ETECVAV - Vasco Antônio Venchiarutti
+//Enunciado: 
+//7) Ler 5 números.
+//Verificar se estão:
+//Em ordem crescente
+//Em ordem decrescente
+//Não ordenados
+//➡️ Criar uma função para essa análise.
+
 #include <iostream>
 #include <string>
 

@@ -1,3 +1,13 @@
+//Nome: Eduardo Antônio de Oliveira Bargueiras
+//Turma: 1C2
+//Instituição: ETECVAV - Vasco Antônio Venchiarutti
+//Enunciado: 
+//10) Ler um nome completo.
+//Exibir:
+//Quantidade de vogais
+//Quantidade de consoantes
+//➡️ Criar funções separadas para cada contagem.
+
 #include <iostream>
 #include <string>
 

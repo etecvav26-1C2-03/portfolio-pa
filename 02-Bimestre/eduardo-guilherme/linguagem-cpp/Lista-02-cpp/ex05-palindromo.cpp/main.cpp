@@ -1,3 +1,11 @@
+//Nome: Eduardo Antônio de Oliveira Bargueiras 
+//Turma: 1C2
+//Instituição: ETECVAV - Vasco Antônio Venchiarutti
+//Enunciado: 
+//5) Ler uma palavra.
+//Verificar se é palíndromo.
+//➡️ Criar uma função que retorne verdadeiro ou falso.
+
 #include <iostream>
 #include <string>
 
@@ -34,6 +42,6 @@ int main() {
         std::cout << "\n\n------ CONCLUSAO ------\n\n>> Nao e um palindromo!";
     }
     //------------------
-    
+
     return 0;
 }

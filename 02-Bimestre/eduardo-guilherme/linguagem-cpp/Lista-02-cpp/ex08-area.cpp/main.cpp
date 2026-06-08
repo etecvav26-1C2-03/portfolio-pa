@@ -1,3 +1,11 @@
+//Nome: Eduardo Antônio de Oliveira Bargueiras 
+//Turma: 1C2
+//Instituição: ETECVAV - Vasco Antônio Venchiarutti
+//Enunciado: 
+//8) Ler o raio de 5 círculos.
+//Calcular e exibir a soma das áreas.
+//➡️ Criar uma função para calcular a área do círculo.
+
 #include <iostream>
 
 //Função para ver a área do círculo.
@@ -31,6 +39,6 @@ int main() {
 
     std::cout << "\nSoma das areas dos 5 circulos:\n\n>> " << areaf;
     //----------------------------
-    
+
     return 0;
 }

@@ -1,3 +1,11 @@
+//Nome: Eduardo Antônio de Oliveira Bargueiras 
+//Turma: 1C2
+//Instituição: ETECVAV - Vasco Antônio Venchiarutti
+//Enunciado: 
+//9) Ler uma palavra.
+//Substituir todas as vogais por *.
+//➡️ Criar uma função para realizar a substituição.
+
 #include <iostream>
 #include <string>
 
@@ -33,6 +41,6 @@ int main()
     std::cout << "\nResultado: "
               << substituirVogais(palavra);
     //----------------------------------
-    
+
     return 0;
 }

@@ -1,3 +1,11 @@
+//Nome: Eduardo Antônio de Oliveira Bargueiras 
+//Turma: 1C2
+//Instituição: ETECVAV - Vasco Antônio Venchiarutti
+//Enunciado: 
+//2) Ler a base e o expoente.
+//Calcular a potência usando repetição.
+//➡️ Criar uma função para o cálculo.
+
 #include <iostream>
 
 //Função calculando potência
