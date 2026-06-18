@@ -4,10 +4,10 @@
 - Disciplina: PA - PROGRAMAÇÃO E ALGORITIMOS
 - Grupo: Eduardo, Felipe, Gabriel e Guilherme
 
-### ➡️ Linguagem atual
+## ➡️ Linguagem atual
 <img width="53" height="20" alt="cpp-badge" src="https://github.com/user-attachments/assets/eb6adf31-0850-446c-baf4-ebd0fbc5903e" />
 
-### ➡️ Futura linguagem
+## ➡️ Futura linguagem
 <img width="67" height="20" alt="python-badge" src="https://github.com/user-attachments/assets/0af04d35-e6fb-400b-8525-3906567d71f9" />
 
 ## 👥 Duplas
