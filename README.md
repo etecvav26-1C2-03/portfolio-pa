@@ -4,6 +4,10 @@
 - Disciplina: PA - PROGRAMAÇÃO E ALGORITIMOS
 - Grupo: Eduardo, Felipe, Gabriel e Guilherme
 
+### 💻 Linguagens usadas
+<img width="53" height="20" alt="image" src="https://github.com/user-attachments/assets/eb6adf31-0850-446c-baf4-ebd0fbc5903e" />
+
+
 ---
 
 
