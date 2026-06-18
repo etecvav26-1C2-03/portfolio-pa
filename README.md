@@ -5,7 +5,7 @@
 - Grupo: Eduardo, Felipe, Gabriel e Guilherme
 
 ### 🎯 Objetivo
-- Este portfólio foi desenvolvido com o objetivo de registrar e apresentar os conhecimentos adquiridos na disciplina de Programação e Algoritmos. Ao longo das atividades, estudamos conceitos fundamentais da lógica de programação, resolução de problemas e desenvolvimento de algoritmos utilizando as linguagens Portugol e C++.
+- Este portfólio foi desenvolvido com o objetivo de registrar e apresentar os conhecimentos adquiridos na disciplina de PA (Programação e Algoritmo) conforme os professores Ronildo e Madureira pediram. Ao longo das atividades, estudamos conceitos fundamentais da lógica de programação, resolução de problemas e desenvolvimento de algoritmos utilizando as linguagens Portugol e C++.
 
 - O repositório reúne exercícios, projetos e atividades realizadas durante a disciplina, demonstrando a evolução do aprendizado e a aplicação prática dos conteúdos estudados. Além disso, este trabalho foi desenvolvido em equipe por quatro integrantes, promovendo a colaboração, a divisão de tarefas e o compartilhamento de conhecimentos entre os membros do grupo.
 
