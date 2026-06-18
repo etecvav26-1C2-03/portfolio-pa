@@ -1,3 +1,13 @@
+//Nome:Guilherme Miguel Rodrigues Pereira Lakonski
+//Turma: 1C2
+//Instituição: ETECVAV - Vasco Antônio Venchiarutti
+//Enunciado:
+//16) Ler 15 números em um vetor.
+//Exibir o índice:
+
+Do menor valor
+Do maior valor
+
 #include <iostream>
 using namespace std;
 

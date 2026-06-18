@@ -1,3 +1,11 @@
+//Nome:Guilherme Miguel Rodrigues Pereira Lakonski
+//Turma: 1C2
+//Instituição: ETECVAV - Vasco Antônio Venchiarutti
+//Enunciado:
+//17) Ler 10 números em um vetor.
+//Criar outro vetor com os sinais invertidos.
+//Exibir a soma dos valores positivos dos dois vetores.
+
 #include <iostream>
 using namespace std;
 

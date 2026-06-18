@@ -3,6 +3,10 @@
 //Turma: 1C2
 //Instituição: ETECVAV - Vasco Antônio Venchiarutti
 //Enunciado:
+//12) Ler 15 números em um vetor.
+//Contar e exibir:
+//Quantidade de pares
+//Quantidade de ímpares
 
 #include <iostream>
 using namespace std;

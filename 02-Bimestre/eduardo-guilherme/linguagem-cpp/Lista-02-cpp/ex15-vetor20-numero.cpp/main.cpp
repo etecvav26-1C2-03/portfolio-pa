@@ -1,3 +1,10 @@
+//Nome:Guilherme Miguel Rodrigues Pereira Lakonski
+//Turma: 1C2
+//Instituição: ETECVAV - Vasco Antônio Venchiarutti
+//Enunciado:
+//15) Ler 20 números em um vetor.
+//Exibir o índice do primeiro número negativo.
+
 #include <iostream>
 using namespace std;
 

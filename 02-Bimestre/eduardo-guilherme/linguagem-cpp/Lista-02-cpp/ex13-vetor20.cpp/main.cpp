@@ -1,3 +1,10 @@
+//Nome:Guilherme Miguel Rodrigues Pereira Lakonski
+//Turma: 1C2
+//Instituição: ETECVAV - Vasco Antônio Venchiarutti
+//Enunciado:
+//13) Ler 20 letras em um vetor.
+//Ler uma letra e contar quantas vezes ela aparece.
+
 #include <iostream>
 using namespace std;
 

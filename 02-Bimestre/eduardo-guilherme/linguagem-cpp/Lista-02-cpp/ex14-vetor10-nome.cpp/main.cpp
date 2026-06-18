@@ -1,3 +1,10 @@
+//Nome:Guilherme Miguel Rodrigues Pereira Lakonski
+//Turma: 1C2
+//Instituição: ETECVAV - Vasco Antônio Venchiarutti
+//Enunciado:
+//14) Ler 10 nomes em um vetor.
+//Ordenar em ordem decrescente e exibir em ordem crescente.
+
 #include <iostream>
 #include <string>
 using namespace std;

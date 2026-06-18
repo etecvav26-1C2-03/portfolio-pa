@@ -1,3 +1,9 @@
+//Nome:Guilherme Miguel Rodrigues Pereira Lakonski
+//Turma: 1C2
+//Instituição: ETECVAV - Vasco Antônio Venchiarutti
+//Enunciado:
+//20) Ler 10 números em um vetor.
+//Exibir o terceiro menor valor.
 #include <iostream>
 using namespace std;
 

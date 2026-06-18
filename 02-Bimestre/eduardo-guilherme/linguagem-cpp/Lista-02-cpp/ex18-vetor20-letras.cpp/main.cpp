@@ -1,3 +1,11 @@
+//Nome:Guilherme Miguel Rodrigues Pereira Lakonski
+//Turma: 1C2
+//Instituição: ETECVAV - Vasco Antônio Venchiarutti
+//Enunciado:
+//18) Ler 20 letras em um vetor.
+//Contar as vogais (a, e, i, o, u)
+//Armazenar em um vetor de 5 posições e exibir.
+
 #include <iostream>
 using namespace std;
 

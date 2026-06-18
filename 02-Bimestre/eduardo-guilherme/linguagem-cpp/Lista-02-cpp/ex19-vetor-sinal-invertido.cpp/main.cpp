@@ -1,3 +1,15 @@
+//Nome:Guilherme Miguel Rodrigues Pereira Lakonski
+//Turma: 1C2
+//Instituição: ETECVAV - Vasco Antônio Venchiarutti
+//Enunciado:
+//19) Ler 10 números.
+//Separar:
+//Pares em um vetor
+//Ímpares em outro vetor
+//Ordenar os dois vetores.
+//Somar os elementos e armazenar em um terceiro vetor.
+//Exibir todos os vetores.
+
 #include <iostream>
 using namespace std;
 
