@@ -4,10 +4,11 @@
 - Disciplina: PA - PROGRAMAÇÃO E ALGORITIMOS
 - Grupo: Eduardo, Felipe, Gabriel e Guilherme
 
-### 💻 Linguagens usadas
+### 💻 Linguagem atual
 <img width="53" height="20" alt="cpp-badge" src="https://github.com/user-attachments/assets/eb6adf31-0850-446c-baf4-ebd0fbc5903e" />
-<img width="53" height="20" alt="portugol-badge" src="https://github.com/user-attachments/assets/f6299265-87b5-458c-9bfe-9010375e3240" />
 
+### 💻 Linguagem futura
+<img width="67" height="20" alt="python-badge" src="https://github.com/user-attachments/assets/0af04d35-e6fb-400b-8525-3906567d71f9" />
 
 
 
