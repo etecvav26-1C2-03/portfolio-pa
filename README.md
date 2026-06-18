@@ -6,7 +6,8 @@
 
 ### 💻 Linguagens usadas
 <img width="53" height="20" alt="image" src="https://github.com/user-attachments/assets/eb6adf31-0850-446c-baf4-ebd0fbc5903e" />
-<img width="53" height="20" alt="image" src="https://github.com/user-attachments/assets/167ee8de-5195-4f47-a6d8-363d725c15c1" />
+<img width="53" height="20" alt="portugol-badge" src="https://github.com/user-attachments/assets/f6299265-87b5-458c-9bfe-9010375e3240" />
+
 
 
 
