@@ -3,8 +3,8 @@
 //Instituição: ETECVAV - Vasco Antônio Venchiarutti
 //Enunciado: 
 //11) Ler 10 números em um vetor.
-Substituir números negativos por zero.
-Exibir o vetor.
+//Substituir números negativos por zero.
+//Exibir o vetor.
 
 #include <iostream>
 using namespace std;
