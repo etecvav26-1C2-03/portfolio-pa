@@ -10,7 +10,10 @@
 ### ➡️ Futura linguagem
 <img width="67" height="20" alt="python-badge" src="https://github.com/user-attachments/assets/0af04d35-e6fb-400b-8525-3906567d71f9" />
 
+## 👥 Duplas
 
+- 01. {Eduardo e Guilherme}
+- 02. {Felipe e Gabriel}
 
 
 ---
