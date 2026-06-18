@@ -6,6 +6,8 @@
 
 ### 💻 Linguagens usadas
 <img width="53" height="20" alt="image" src="https://github.com/user-attachments/assets/eb6adf31-0850-446c-baf4-ebd0fbc5903e" />
+<img width="53" height="20" alt="image" src="https://github.com/user-attachments/assets/cdbaf8db-ffe7-4693-98f5-86c44f150665" />
+
 
 
 ---
