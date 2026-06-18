@@ -12,8 +12,8 @@
 
 ## 👥 Duplas
 
-- { Eduardo e Guilherme }
-- { Felipe e Gabriel }
+- {Eduardo e Guilherme}
+- {Felipe e Gabriel}
 
 
 ---
