@@ -1,6 +1,8 @@
 #include <iostream>
 #include <random>
 #include <ctime>
+#include <windows.h>
+
 
 int GarraJerimum(){
 	std::mt19937 gen(time(0));
@@ -18,21 +20,21 @@ int DanoInimigo(){
 
 int DanoKevin(){
 	std::mt19937 gen(time(0));
-    std::uniform_int_distribution<> distrib(1, 15);
+    std::uniform_int_distribution<> distrib(1, 20);
 
     return distrib(gen);
 }
 
 int DanoBarbarini(){
 	std::mt19937 gen(time(0));
-    std::uniform_int_distribution<> distrib(5, 20);
+    std::uniform_int_distribution<> distrib(7, 20);
 
     return distrib(gen);
 }
 
 int DanoFelipe(){
 	std::mt19937 gen(time(0));
-    std::uniform_int_distribution<> distrib(3, 17);
+    std::uniform_int_distribution<> distrib(4, 20);
 
     return distrib(gen);
 }
@@ -54,9 +56,10 @@ void batalhaF(){
 	else if(escolha == 2){
 		std::cout << "\nFORMIGUINHA_CURSED foi poupada...";
 	}
+	std::cout << "\n\nFORMIGUINHA_CURSED canta uma melodia assustadora... (buff: +15 de dano)";
 	
-	//TURNO 2:	
-	std::cout << "\n\nFORMIGUINHA_CURSED canta uma melodia assustadora... (buff: +15 de dano)\n(Seu HP: " << hpFelipe << ")\n\n1 - ATACAR    2 - POUPAR\n\n>>> ";
+	//TURNO 2:
+	std::cout << "\n\n========== TURNO 2: ==========\n\n(Seu HP: " << hpFelipe << ")\n\n1 - ATACAR    2 - POUPAR\n\n>>> ";
 	std::cin >> escolha;
 	
 	if(escolha == 1){
@@ -67,14 +70,16 @@ void batalhaF(){
 	else if(escolha == 2){
 		std::cout << "\nFORMIGUINHA_CURSED foi poupada...";
 	
-}
+} 
 	int danoGarraJerimum = GarraJerimum() + 15;
 	hpFelipe -= danoGarraJerimum;
 	
-	std::cout << "\n\nFORMIGUINHA_CURSED usou GARRA DO JERIMUM e causou " << danoGarraJerimum << " de dano.";
+	std::cout << "FORMIGUINHA_CURSED usou GARRA DO JERIMUM e causou " << danoGarraJerimum << " de dano.";
+	Sleep(3500);
 	
 	//TURNO 3:
-	std::cout << "\n\n(Seu HP: " << hpFelipe << ")";
+	system("cls");
+	std::cout << "========== TURNO 3: ==========\n\n(Seu HP: " << hpFelipe << ")";
 }
 
 void batalhaB(){
@@ -95,9 +100,10 @@ void batalhaB(){
 	else if(escolha == 2){
 		std::cout << "\nFORMIGUINHA_CURSED foi poupada...";
 	}
+	std::cout << "\nFORMIGUINHA_CURSED canta uma melodia assustadora... (buff: +15 de dano)";
 	
 	//TURNO 2:
-	std::cout << "\n\nFORMIGUINHA_CURSED canta uma melodia assustadora... (buff: +15 de dano)\n(Seu HP: " << hpBarbarini << ")\n\n1 - ATACAR    2 - POUPAR\n\n>>> ";
+	std::cout << "\n\n========== TURNO 2: ==========\n\n(Seu HP: " << hpBarbarini << ")\n\n1 - ATACAR    2 - POUPAR\n\n>>> ";
 	std::cin >> escolha;
 	
 	if(escolha == 1){
@@ -113,10 +119,12 @@ void batalhaB(){
 	int danoGarraJerimum = GarraJerimum() + 15;
 	hpBarbarini -= danoGarraJerimum;
 	
-	std::cout << "\n\nFORMIGUINHA_CURSED usou GARRA DO JERIMUM e causou " << danoGarraJerimum << " de dano.";
+	std::cout << "\nFORMIGUINHA_CURSED usou GARRA DO JERIMUM e causou " << danoGarraJerimum << " de dano.";
+	Sleep(3500);
 	
 	//TURNO 3:
-	std::cout << "\n\n(Seu HP: " << hpBarbarini << ")";
+	system("cls");
+	std::cout << "========== TURNO 3: ==========\n\n(Seu HP: " << hpBarbarini << ")";
 }
 
 void batalhaK(){
@@ -137,9 +145,10 @@ void batalhaK(){
 	else if(escolha == 2){
 		std::cout << "\nFORMIGUINHA_CURSED foi poupada...";
 	}
+	std::cout << "\nFORMIGUINHA_CURSED canta uma melodia assustadora... (buff: +15 de dano)";
 	
 	//TURNO 2:
-	std::cout << "\n\nFORMIGUINHA_CURSED canta uma melodia assustadora... (buff: +15 de dano)\n(Seu HP: " << hpKevin << ")\n\n1 - ATACAR    2 - POUPAR\n\n>>> ";
+	std::cout << "\n\n========== TURNO 2: ==========\n\n(Seu HP: " << hpKevin << ")\n\n1 - ATACAR    2 - POUPAR\n\n>>> ";
 	std::cin >> escolha;
 	
 	if(escolha == 1){
@@ -155,10 +164,12 @@ void batalhaK(){
 	int danoGarraJerimum = GarraJerimum() + 15;
 	hpKevin -= danoGarraJerimum;
 	
-	std::cout << "\n\nFORMIGUINHA_CURSED usou GARRA DO JERIMUM e causou " << danoGarraJerimum << " de dano.";
+	std::cout << "\nFORMIGUINHA_CURSED usou GARRA DO JERIMUM e causou " << danoGarraJerimum << " de dano.";
+	Sleep(3500);
 	
 	//TURNO 3:
-	std::cout << "\n\n(Seu HP: " << hpKevin << ")";
+	system("cls");
+	std::cout << "========== TURNO 3: ==========\n\n(Seu HP: " << hpKevin << ")";
 }
 
 int main(int argc, char** argv) {
