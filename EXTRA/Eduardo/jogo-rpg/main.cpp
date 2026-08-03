@@ -4,36 +4,33 @@
 #include <windows.h>
 
 
+std::mt19937 gen(time(0));
+
 int GarraJerimum(){
-	std::mt19937 gen(time(0));
     std::uniform_int_distribution<> distrib(10, 30);
 
     return distrib(gen);
 }
 
 int DanoInimigo(){
-	std::mt19937 gen(time(0));
     std::uniform_int_distribution<> distrib(3, 20);
 
     return distrib(gen);
 }
 
 int DanoKevin(){
-	std::mt19937 gen(time(0));
     std::uniform_int_distribution<> distrib(1, 20);
 
     return distrib(gen);
 }
 
 int DanoBarbarini(){
-	std::mt19937 gen(time(0));
     std::uniform_int_distribution<> distrib(7, 20);
 
     return distrib(gen);
 }
 
 int DanoFelipe(){
-	std::mt19937 gen(time(0));
     std::uniform_int_distribution<> distrib(4, 20);
 
     return distrib(gen);
@@ -75,7 +72,7 @@ void batalhaF(){
 	hpFelipe -= danoGarraJerimum;
 	
 	std::cout << "FORMIGUINHA_CURSED usou GARRA DO JERIMUM e causou " << danoGarraJerimum << " de dano.";
-	Sleep(3500);
+	Sleep(5000);
 	
 	//TURNO 3:
 	system("cls");
@@ -120,7 +117,7 @@ void batalhaB(){
 	hpBarbarini -= danoGarraJerimum;
 	
 	std::cout << "\nFORMIGUINHA_CURSED usou GARRA DO JERIMUM e causou " << danoGarraJerimum << " de dano.";
-	Sleep(3500);
+	Sleep(5000);
 	
 	//TURNO 3:
 	system("cls");
@@ -165,7 +162,7 @@ void batalhaK(){
 	hpKevin -= danoGarraJerimum;
 	
 	std::cout << "\nFORMIGUINHA_CURSED usou GARRA DO JERIMUM e causou " << danoGarraJerimum << " de dano.";
-	Sleep(3500);
+	Sleep(5000);
 	
 	//TURNO 3:
 	system("cls");
