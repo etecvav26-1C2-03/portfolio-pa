@@ -1,12 +1,8 @@
-#if __cplusplus < 201103L
-#error ATENCAO: Este codigo exige C++11 ou superior.
-#endif
-
 #include <iostream>
 #include <random>
 #include <ctime>
-#include <thread>
-#include <chrono>
+
+// ATENCAO: Este codigo exige C++11 ou superior. Use programas como Programiz para testar o código.
 
 std::mt19937 gen(time(0));
 
@@ -69,7 +65,6 @@ void batalhaF(){
     hpFelipe -= danoGarraJerimum;
     
     std::cout << "FORMIGUINHA_CURSED usou GARRA DO JERIMUM e causou " << danoGarraJerimum << " de dano.";
-    std::this_thread::sleep_for(std::chrono::milliseconds(5000));
     
     system("cls");
     std::cout << "========== TURNO 3: ==========\n\n(Seu HP: " << hpFelipe << ")";
@@ -111,7 +106,6 @@ void batalhaB(){
     hpBarbarini -= danoGarraJerimum;
     
     std::cout << "\nFORMIGUINHA_CURSED usou GARRA DO JERIMUM e causou " << danoGarraJerimum << " de dano.";
-    std::this_thread::sleep_for(std::chrono::milliseconds(5000));
     
     system("cls");
     std::cout << "========== TURNO 3: ==========\n\n(Seu HP: " << hpBarbarini << ")";
@@ -153,7 +147,6 @@ void batalhaK(){
     hpKevin -= danoGarraJerimum;
     
     std::cout << "\nFORMIGUINHA_CURSED usou GARRA DO JERIMUM e causou " << danoGarraJerimum << " de dano.";
-    std::this_thread::sleep_for(std::chrono::milliseconds(5000));
     
     system("cls");
     std::cout << "========== TURNO 3: ==========\n\n(Seu HP: " << hpKevin << ")";
