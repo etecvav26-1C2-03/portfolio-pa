@@ -7,6 +7,6 @@
 
 <p align="center">
        <img src="https://i.scdn.co/image/ab67616d00001e02ee9aad7a1dfc6cbdff0ef764" width="350">
-       <img src="https://static.wikia.nocookie.net/joke-battles/images/5/59/Ultrachadinsti.jpeg/revision/latest/scale-to-width-down/400?cb=20240106053436" width=312">
+       <img src="https://static.wikia.nocookie.net/joke-battles/images/5/59/Ultrachadinsti.jpeg/revision/latest/scale-to-width-down/400?cb=20240106053436" width=315">
   
 </p>
