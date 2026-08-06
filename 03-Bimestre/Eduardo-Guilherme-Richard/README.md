@@ -4,4 +4,7 @@
 -Eduardo Antônio de Oliveira Bargueiras
 
 -Richard Murilo Araújo Freire
-<img src="images/furry.png" width="300">
+
+<p align="center">
+  <img src="https://www.furaffinity.net/view/31809354.png" />
+</p>
