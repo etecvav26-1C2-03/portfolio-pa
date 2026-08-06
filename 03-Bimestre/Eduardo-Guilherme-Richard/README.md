@@ -6,5 +6,5 @@
 -Richard Murilo Araújo Freire
 
 <p align="center">
-  <img src="https://www.furaffinity.net/view/31809354.png" />
+  <img src="https://d.furaffinity.net/art/gabemorningstar/1640995518/1640995518.gabemorningstar_image_2021-12-31_210448.png" />
 </p>
