@@ -2,7 +2,7 @@
 
 - Turma: 1C2
 - Disciplina: PA - PROGRAMAÇÃO E ALGORITIMOS
-- Grupo: Eduardo, Felipe, Gabriel e Guilherme
+- Grupo: Cauan, Eduardo, Felipe, Gabriel, Guilherme e Richard
 
 ### 🎯 Objetivo
 - Este portfólio foi desenvolvido com o objetivo de registrar e apresentar os conhecimentos adquiridos na disciplina de PA (Programação e Algoritmo) conforme os professores Ronildo e Madureira pediram. Ao longo das atividades, estudamos diversas linguagens e aprendemos a resolver problemas com elas.
