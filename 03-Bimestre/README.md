@@ -11,5 +11,3 @@
 
 - PYTHON
 
-##  Objetivo
-Realizar as atividades e registra nossos feitos 
