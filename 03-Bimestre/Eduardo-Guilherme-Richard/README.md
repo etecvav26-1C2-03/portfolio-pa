@@ -7,5 +7,6 @@
 
 <p align="center">
        <img src="https://i.scdn.co/image/ab67616d00001e02ee9aad7a1dfc6cbdff0ef764" width="350">
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=..." width="250">
   
 </p>
