@@ -1,6 +1,6 @@
 ## ESTUDANTES
 
-- Guilherme Miguel Rodrigues Pereira  
+- Guilherme Miguel Rodrigues Pereira Lakonski
 - Eduardo Antônio de Oliveira Barguera  
 - Richard Murilo Araújo Freire  
 
