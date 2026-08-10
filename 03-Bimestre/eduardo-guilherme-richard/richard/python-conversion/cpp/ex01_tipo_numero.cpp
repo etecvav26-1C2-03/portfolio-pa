@@ -1,6 +1,6 @@
 /*
     Autor: Richard Murilo Araujo Freire
-    Data: Junho/2026
+    Data: 10/08/2026
     Descrição: Lê um número inteiro e informa se ele é positivo, negativo ou zero.
 */
 
