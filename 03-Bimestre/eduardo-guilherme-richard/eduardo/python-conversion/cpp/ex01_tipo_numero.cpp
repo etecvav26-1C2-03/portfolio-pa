@@ -1,5 +1,5 @@
  /*
-    Autor: Richard Murilo Araujo Freire
+    Autor: Eduardo Antônio de Oliveira Bargueiras
     Data: 10/08/2026
     Descrição: Lê um número inteiro e informa se ele é positivo, negativo ou zero.
 */
