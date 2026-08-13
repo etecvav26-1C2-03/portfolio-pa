@@ -1,7 +1,7 @@
 '''
     Autor: Gabriel Fernandes Barbarini
     Data: 10/08/2026
-    Descrição: .
+    Descrição: Lê um numero e calcula seu fatorial.
 '''
 
 numero = int(input("Digite um numero: "))
