@@ -1,10 +1,13 @@
-while True:
-    n = int(input())
-    if n > 0:
-        print(f"> {n} = maior que zero")
-        break
-    elif n == 0:
-        print(f"> {n} = igual a zero")
-    else:
-        print(f"> {n} = menor que zero")
-        break
+numero = int(input("Digite um numero inteiro: "))
+
+
+if (numero > 0):
+    print("O numero e positivo.")
+
+elif(numero < 0 ):
+    print("O numero e negativo.")
+
+else:
+    print("O numero e zero.")
+
+    
