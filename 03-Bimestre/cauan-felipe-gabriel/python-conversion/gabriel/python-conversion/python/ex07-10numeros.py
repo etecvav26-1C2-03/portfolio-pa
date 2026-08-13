@@ -1,7 +1,7 @@
 '''
     Autor: Gabriel Fernandes Barbarini
     Data: 13/08/2026
-    Descrição: Lê várias notas e calcula e média entre elas.
+    Descrição: Lê vários numeros e mostra quantos positivos, negativos e zeros há. 
 '''
 
 contagem = 1
