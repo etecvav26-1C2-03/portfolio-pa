@@ -1,11 +1,10 @@
+n = int(input())
+count = 1
 
-numero = int(input("Digite um numero de 1 a 10: "))
-contador = 1
-
-while numero < 1 or numero > 10:
+while n < 1 or n > 10:
     print("Valor invalido. Digite novamente: ")
-    numero = int(input("Digite um numero de 1 a 10: "))
+    n = int(input("Digite um numero de 1 a 10: "))
 
-while contador <= 10:
-    print(f"{numero} x {contador} = {numero * contador}")
-    contador += 1
+while count <= 10:
+    print(f"{n} x {count} = {n * count}")
+    count += 1

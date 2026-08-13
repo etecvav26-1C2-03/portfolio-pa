@@ -1,24 +1,22 @@
-
-
-contador = 1
-positivos = 0
-negativos = 0
+count = 1
+p = 0
+n = 0
 zeros = 0
 
-while (contador <= 10):
-    numero = int(input(f"Digite o {contador}o numero: "))
+while (count <= 10):
+    numero = int(input(f"Digite o {count}o numero: "))
 
     if (numero > 0):
-        positivos = positivos + 1
+        p = p + 1
 
     elif (numero < 0):
-        negativos = negativos + 1
+        n = n + 1
 
     else:
         zeros = zeros + 1
 
-    contador = contador + 1
+    count = count + 1
 
-print(f"Positivos: {positivos}")
-print(f"Negativos: {negativos}")
+print(f"Positivos: {p}")
+print(f"Negativos: {n}")
 print(f"Zeros: {zeros}")

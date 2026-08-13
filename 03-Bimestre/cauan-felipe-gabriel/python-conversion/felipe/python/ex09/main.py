@@ -1,16 +1,14 @@
+n = int(input())
+count = 1
+factorial = 1
 
+if (n >= 0):
 
-numero = int(input("Digite um numero inteiro positivo: "))
-contador = 1
-fatorial = 1
+    while (count <= n):
+        factorial = factorial * count
+        count = count + 1
 
-if (numero >= 0):
-
-    while (contador <= numero):
-        fatorial = fatorial * contador
-        contador = contador + 1
-
-    print(f"Fatorial: {fatorial}")
+    print(f"Fatorial: {factorial}")
 
 else:
     print("Numero invalido.")

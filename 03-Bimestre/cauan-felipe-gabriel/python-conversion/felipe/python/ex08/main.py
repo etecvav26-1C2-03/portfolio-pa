@@ -1,18 +1,16 @@
+n = int(input())
+div = 1
+q_divs = 0
 
+if (n > 0):
 
-numero = int(input("Digite um numero inteiro positivo: "))
-divisor = 1
-quantidade_divisores = 0
+    while (div <= n):
+        if (n % div == 0):
+            q_div = q_div + 1
 
-if (numero > 0):
+        div = div + 1
 
-    while (divisor <= numero):
-        if (numero % divisor == 0):
-            quantidade_divisores = quantidade_divisores + 1
-
-        divisor = divisor + 1
-
-    if (quantidade_divisores == 2):
+    if (q_div == 2):
         print("O numero e primo.")
 
     else:

@@ -1,12 +1,12 @@
-numero = int(input("Digite um numero inteiro positivo: "))
-contador = 1
+n = int(input())
+count = 1
 
 
-if(numero > 0):
+if(n > 0):
 
-    while(contador <= numero):
-        print(contador)
-        contador+=1
+    while(count <= n):
+        print(count)
+        count+=1
 
 else:
     print("Numero invalido. Digite um Valor positivo.")

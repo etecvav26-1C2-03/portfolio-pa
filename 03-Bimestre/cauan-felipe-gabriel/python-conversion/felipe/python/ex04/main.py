@@ -1,18 +1,16 @@
+n = int(input())
+count = 1
+sum = 0
 
+if(n > 0):
 
-numero = int(input("Digite um numero inteiro positivo: "))
-contador = 1
-soma = 0
+    while (count <= n):
+        if(count % 2 == 0 ):
+            sum = sum + count
 
-if(numero > 0):
+        count+=1
 
-    while (contador <= numero):
-        if(contador % 2 == 0 ):
-            soma = soma + contador
-
-        contador+=1
-
-    print(f"Soma dos pares: {soma} ")
+    print(f"Soma dos pares: {sum} ")
 
 else:
     print("Numero invalido")

@@ -1,13 +1,13 @@
 
-numero1 = int(input("Digite o primeiro numero: "))
-numero2 = int(input("Digite o segundo numero: "))
+n1 = int(input("Digite o primeiro numero: "))
+n2 = int(input("Digite o segundo numero: "))
 
 
-if(numero1 > numero2):
-    print("O maior numero e: ", numero1)
+if(n1 > n2):
+    print("O maior numero e: ", n1)
 
-elif(numero2 > numero1):
-    print("O maior numero e: ", numero2)
+elif(n2 > n1):
+    print("O maior numero e: ", n2)
 
 else:
     print("Os numeros sao iguais.")
