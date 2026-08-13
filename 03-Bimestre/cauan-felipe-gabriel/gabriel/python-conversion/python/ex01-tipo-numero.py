@@ -7,6 +7,7 @@
 numero = int(input("Escreva um número: "))
 if numero > 0:
     print("seu número é positivo")
-
+elif numero == 0:
+    print ("seu número é 0")
 else:
     print("seu número é negativo")
