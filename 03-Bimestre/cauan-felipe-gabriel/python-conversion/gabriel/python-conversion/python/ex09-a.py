@@ -1,14 +1,19 @@
-n = int(input())
-count = 1
-factorial = 1
+'''
+    Autor: Gabriel Fernandes Barbarini
+    Data: 10/08/2026
+    Descrição: .
+'''
 
-if (n >= 0):
+numero = int(input("Digite um numero: "))
+contagem = 1
+fatorial = 1
 
-    while (count <= n):
-        factorial = factorial * count
-        count = count + 1
+if (numero >= 0):
+    while (contagem <= numero):
+        fatorial = fatorial * contagem
+        contagem = contagem + 1
 
-    print(f"Fatorial: {factorial}")
+    print(f"Fatorial: {fatorial}")
 
 else:
-    print("Numero invalido.")
+    print("Digite outro numero.")
