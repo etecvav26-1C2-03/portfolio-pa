@@ -1,6 +1,6 @@
 /*
     Autor: Eduardo Antônio de Oliveira Bargueiras
-    Data: Junho/2026
+    Data: 13/08/2026
     Descrição: Calcula a média de notas válidas entre 0 e 10 usando while.
 */
 
