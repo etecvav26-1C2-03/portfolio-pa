@@ -13,3 +13,5 @@ if numero >= 0:
         if i % 2 == 0:
             soma += i   
     print("A soma dos números pares é: ", soma) 
+else:
+    print("Erro... Insira um número positivo e tente novamente.")
