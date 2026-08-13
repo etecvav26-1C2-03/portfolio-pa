@@ -10,3 +10,5 @@ if numero > 0 and numero <= 10:
         resultado = numero * i
         print(numero, " x ", i, " = ", resultado)
         i += 1
+else: 
+    print("INSIRA O NÚMERO DE 1 A 10")
