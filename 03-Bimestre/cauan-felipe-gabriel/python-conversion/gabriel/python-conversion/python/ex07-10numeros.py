@@ -22,3 +22,8 @@ while (contagem <= 10):
         zero = zero + 1
 
     contagem = contagem + 1
+
+
+print(f"Números positivos: {positivo}")
+print(f"Números negativos: {negativo}")
+print(f"Zeros: {zero}")
