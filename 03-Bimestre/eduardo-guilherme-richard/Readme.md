@@ -4,9 +4,7 @@ Resumo: Este repositório contém exercícios resolvidos inicialmente em C++ e c
 
 ## Objetivo
 
-Praticar lógica de programação de todos do trio usando:
-
-- if, while, entrada de dados, saída de dados, operadores matemáticos e validação.
+Praticar lógica de programação de todos do trio usando estruturas como: if, while, entrada de dados, saída de dados, operadores matemáticos e validação.
 
 E também usando a lógica própria, já que tentamos não converter só olhando para os exercícios prontos. Nós fizemos em Python com base no que precisava (desenvolvendo lógica e raciocínio próprio) e depois nós corrigimos comparando com o código de C++
 ## Organização
