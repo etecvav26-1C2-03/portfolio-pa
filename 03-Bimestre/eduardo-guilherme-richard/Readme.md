@@ -1,4 +1,4 @@
-# Conversão C++ para Python
+# 🛠 Conversão C++ para Python
 
 Este repositório contém exercícios resolvidos inicialmente em C++ e convertidos para Python. E cada 1 do grupo fez as próprias conversões separadas para a sua própria pasta, já que um dos objetivos era treinar a lógica de cada um igualmente.
 
