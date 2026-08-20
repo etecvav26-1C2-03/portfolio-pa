@@ -20,12 +20,12 @@ Praticar lógica de programação usando:
 
 ## Autores dos exemplos em C++
 
-Eduardo Antônio de Oliveira Bargueiras
-Richard Murilo Araujo Freire
-Guilherme Miguel Rodrigues Pereira Lakonski
+- Eduardo Antônio de Oliveira Bargueiras
+- Richard Murilo Araujo Freire
+- Guilherme Miguel Rodrigues Pereira Lakonski
 
 ## Conversão para Python
 
-Eduardo Antônio de Oliveira Bargueiras
-Richard Murilo Araujo Freire
-Guilherme Miguel Rodrigues Pereira Lakonski
+- Eduardo Antônio de Oliveira Bargueiras
+- Richard Murilo Araujo Freire
+- Guilherme Miguel Rodrigues Pereira Lakonski
