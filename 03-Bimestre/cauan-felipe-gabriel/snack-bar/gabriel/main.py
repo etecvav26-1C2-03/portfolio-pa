@@ -30,7 +30,7 @@ def save_data(data):
         json.dump(data, file, indent=4, ensure_ascii=False)
 
 def register_product():
-    print("\n--- Registre um produto ---")
+    print("\n Registre um produto ")
     codigo = input("Insira o código do produto: ")
 
     if find_product_by_code(codigo) is not None:
