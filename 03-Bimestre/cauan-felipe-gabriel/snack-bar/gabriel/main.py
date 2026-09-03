@@ -3,11 +3,11 @@ import os
 
 DATA_FILE = "lanterna_lanchote.json"
 
-produto = []
-pedido = []
+produtos = []
+pedidos = []
 
 def load_data():
-    global produto, pedido
+    global produtos, pedidos
 
     if not os.path.exists(DATA_FILE):
        produto = [] 
@@ -22,8 +22,8 @@ def load_data():
 
 def save_data(data):
     data = {
-        "produtos": produto,
-        "pedidos": pedido
+        "produtos": produtos,
+        "pedidos": pedidos
     }
     
     with open(DATA_FILE, "w", encoding="utf-8") as file:
@@ -48,7 +48,7 @@ def register_product():
         "estoque": estoque
     }
 
-    produto.append(produto)
+    produtos.append(produto)
     save_data()
 
     print("Produto cadastrado com sucesso!")
