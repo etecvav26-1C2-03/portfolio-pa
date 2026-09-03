@@ -115,3 +115,47 @@ def make_order():
     print("Pedido realizado com sucesso ")
     print(f"Total: R$ {total:.2f}")
 
+def list_orders():
+    if len(pedidos) == 0:
+        print("Nenhum pedido realizado ")
+        return
+    
+    print("\n Pedidos:" )
+    for pedido in pedidos:
+        print(f"Cliente: {pedido['cliente_nome']}")
+        print(f"Produto: {pedido['produto_nome']}")
+        print(f"Quantidade: {pedido['quantidade']}")
+        print(f"Total: R$ {pedido['total']:.2f}")
+        print("-" * 30)
+
+def show_menu():
+    print("\n Sistema Lanchonete ")
+    print("1 - Cadastrar produto")
+    print("2 - Ver produtos")
+    print("3 - Fazer pedido")
+    print("4 - Ver pedidos realizados")
+    print("5 - Sair")
+
+def main():
+    load_data()
+
+    while True:
+        show_menu()
+        opcao = input("escolha uma opção ")
+
+        if opcao == "1":
+            register_product()
+        elif opcao == "2":
+            list_products()
+        elif opcao == "3":
+            make_order()
+        elif opcao == "4":
+            list_orders()
+        elif opcao == "5":
+            save_data()
+            print("Sistema encerrado, ate a proxima. ")
+            break
+        else:
+            print ("opção inválida, tente novamente ")
+
+main()
