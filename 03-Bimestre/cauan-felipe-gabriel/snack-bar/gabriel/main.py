@@ -38,8 +38,13 @@ def register_product():
         return
 
     nome = input("Nome do produto: ")
-    preco = float(input("Preço do produto: "))
-    estoque = int(input("Quantidade em estoque: "))
+
+    try:
+        preco = float(input("Preço do produto: "))
+        estoque = int(input("Quantidade em estoque: "))
+    except ValueError:
+        print("\n Preço ou quantidade inválido, tente novamente. ")
+        return
 
     produto = {
         "codigo": codigo,
@@ -88,7 +93,11 @@ def make_order():
         print("\n Produto não existe.")
         return
 
-    quantidade = int(input("Quantidade desejada: "))
+    try:
+        quantidade = int(input("Quantidade desejada: "))
+    except ValueError:
+        print("\n Quantidade inválida, tente novamete. ")
+        return
 
     if quantidade <= 0:
         print("Quantidade inválida.")
