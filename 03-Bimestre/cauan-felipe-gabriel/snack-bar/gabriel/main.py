@@ -6,6 +6,7 @@ DATA_FILE = "lanterna_lanchote.json"
 produtos = []
 pedidos = []
 
+# Carrega as informações antigas e cria a pasta do json
 def load_data():
     global produtos, pedidos
 
@@ -19,7 +20,7 @@ def load_data():
         produtos = data.get("produtos", [])
         pedidos = data.get("pedidos", [])
 
-
+# Salva as informações
 def save_data():
     data = {
         "produtos": produtos,
@@ -29,6 +30,7 @@ def save_data():
     with open(DATA_FILE, "w", encoding="utf-8") as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
 
+# Adiciona produtos novos
 def register_product():
     print("\n Registre um produto ")
     codigo = input("Insira o código do produto: ")
@@ -39,6 +41,7 @@ def register_product():
 
     nome = input("Nome do produto: ")
 
+# Tratamento de erro
     try:
         preco = float(input("Preço do produto: "))
         estoque = int(input("Quantidade em estoque: "))
@@ -58,6 +61,7 @@ def register_product():
 
     print("Produto cadastrado com sucesso!")
 
+# Mostra todos os produtos cadastrados
 def list_products():
     if len(produtos) == 0:
         print ("Nenhum produto cadastrado. ")
@@ -71,12 +75,14 @@ def list_products():
         print(f"Estoque: {produto['estoque']}")
         print("-" * 30)
 
+# Procura os produtos já existentes
 def find_product_by_code(codigo):
     for produto in produtos:
         if produto["codigo"] == codigo:
             return produto
     return None
 
+# Faz o pedido do cliente
 def make_order():
     if len(produtos) == 0:
         print("Nenhum produto cadastrado.")
@@ -93,6 +99,7 @@ def make_order():
         print("\n Produto não existe.")
         return
 
+# Tratamento de erro denovo 
     try:
         quantidade = int(input("Quantidade desejada: "))
     except ValueError:
@@ -106,8 +113,10 @@ def make_order():
     if quantidade > produto["estoque"]:
         print("Estoque insuficiente.")
         return
-    
+
+    # Caucula o preço a pagar
     total = quantidade * produto["preço"]
+
     produto["estoque"] -= quantidade
 
     pedido = {
@@ -124,6 +133,7 @@ def make_order():
     print("Pedido realizado com sucesso ")
     print(f"Total: R$ {total:.2f}")
 
+# Mostra todos os pedidos feitos
 def list_orders():
     if len(pedidos) == 0:
         print("Nenhum pedido realizado ")
@@ -137,6 +147,7 @@ def list_orders():
         print(f"Total: R$ {pedido['total']:.2f}")
         print("-" * 30)
 
+# Texto do menu
 def show_menu():
     print("\n Sistema Lanchonete ")
     print("1 - Cadastrar produto")
@@ -148,23 +159,26 @@ def show_menu():
 def main():
     load_data()
 
+    # Le oque o usuário digitou no menu 
     while True:
         show_menu()
         opcao = input("\n escolha uma opção ")
 
-        if opcao == "1":
-            register_product()
-        elif opcao == "2":
-            list_products()
-        elif opcao == "3":
-            make_order()
-        elif opcao == "4":
-            list_orders()
-        elif opcao == "5":
-            save_data()
-            print("Sistema encerrado, ate a proxima. ")
-            break
-        else:
-            print ("opção inválida, tente novamente ")
+        #'match case' no lugar de 'if' para melhor leitura do código
+        match opcao:
+            case '1':
+                register_product()
+            case '2':
+                list_products()
+            case '3':
+                make_order()
+            case '4':
+                list_orders()
+            case '5':
+                save_data()
+                print("Sistema encerrado, até a próxima. ")
+                break
+            case _:
+                print ("opção inválida, tente novamente ")
 
 main()
