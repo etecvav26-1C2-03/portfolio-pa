@@ -62,7 +62,7 @@ def list_products():
     for produto in produtos:
         print(f"Código: {produto['codigo']}")
         print(f"Nome: {produto['nome']}")
-        print(f"Preço: R$ {produto['preco']:.2f}")
+        print(f"Preço: R$ {produto['preço']:.2f}")
         print(f"Estoque: {produto['estoque']}")
         print("-" * 30)
 
@@ -77,7 +77,7 @@ def make_order():
         print("Nenhum produto cadastrado.")
         return
 
-    cliente_nome = input("Nome do cliente: ")
+    cliente_nome = input("\n Nome do cliente: ")
 
     list_products()
 
@@ -85,7 +85,7 @@ def make_order():
     produto = find_product_by_code(codigo)
 
     if produto is None:
-        print("Produto não existe.")
+        print("\n Produto não existe.")
         return
 
     quantidade = int(input("Quantidade desejada: "))
@@ -98,7 +98,7 @@ def make_order():
         print("Estoque insuficiente.")
         return
     
-    total = quantidade * produto["preco"]
+    total = quantidade * produto["preço"]
     produto["estoque"] -= quantidade
 
     pedido = {
@@ -141,7 +141,7 @@ def main():
 
     while True:
         show_menu()
-        opcao = input("escolha uma opção ")
+        opcao = input("\n escolha uma opção ")
 
         if opcao == "1":
             register_product()
