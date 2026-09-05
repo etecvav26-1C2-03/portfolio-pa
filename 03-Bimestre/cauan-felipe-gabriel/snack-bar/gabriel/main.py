@@ -10,17 +10,17 @@ def load_data():
     global produtos, pedidos
 
     if not os.path.exists(DATA_FILE):
-       produto = [] 
-       pedido = []
+       produtos = [] 
+       pedidos = []
        return
 
     with open(DATA_FILE, "r", encoding="utf-8") as file:
         data = json.load(file)
-        produto = data.get("produtos", [])
-        pedido = data.get("pedidos", [])
+        produtos = data.get("produtos", [])
+        pedidos = data.get("pedidos", [])
 
 
-def save_data(data):
+def save_data():
     data = {
         "produtos": produtos,
         "pedidos": pedidos
