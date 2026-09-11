@@ -6,7 +6,7 @@ DATA_FILE = "lanterna_lanchote.json"
 produtos = []
 pedidos = []
 
-# Carrega as informações antigas e cria a pasta do json
+# Carrega as informações antigas e cria a pasta do json.
 def load_data():
     global produtos, pedidos
 
