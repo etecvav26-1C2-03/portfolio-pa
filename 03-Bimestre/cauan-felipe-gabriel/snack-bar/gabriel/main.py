@@ -147,14 +147,82 @@ def list_orders():
         print(f"Total: R$ {pedido['total']:.2f}")
         print("-" * 30)
 
+# extra 1: muda o preço do produto
+def alter_product_price():
+    codigo = input ("\n Digite o código do produto para mudar o preço: ")
+    produto = find_product_by_code(codigo)
+
+    if produto is None:
+        print("O produto não existe.")
+        return
+
+    # tratamento de erro
+    try:
+        novo_preco = float(input("Digite o novo preço: "))
+    except ValueError:
+        print("Preço inválido, tente novamente.")
+        return
+
+    produto["preço"] = novo_preco
+    save_data()
+    print("Preço do produto atualizado.")
+
+# extra 2: remove os produtos
+def remove_product():
+    codigo = input("\n Digite o código do produto para removê-lo: ")
+    produto = find_product_by_code(codigo)
+
+    if produto is None:
+        print("O produto não existe.")
+        return
+
+    produtos.remove(produto)
+    save_data()
+    print("\n Produto removido com sucesso.")
+
+# extra 3: pesquisar produto por nome
+def search_product_by_name():
+    nome = input("\n Digite o nome do produto: ")
+    encontrados = [produto for produto in produtos if nome.lower() in produto["nome"].lower()]
+
+    if len(encontrados) == 0:
+        print("Não existe um produto com esse nome.")
+        return
+
+    print("\n Produtos encontrados:")
+    for produto in encontrados:
+        print(f"Código: {produto['codigo']}")
+        print(f"Nome: {produto['nome']}")
+        print(f"Preço: R$ {produto['preço']:.2f}")
+        print(f"Estoque: {produto['estoque']}")
+        print("-" * 30)
+
+# extra 4: relatório de vendas
+def sales_report():
+    if len(pedidos) == 0:
+        print("Nenhuma venda realizada.")
+        return
+
+    print("\n Relatório de Vendas:")
+    for pedido in pedidos:
+        print(f"Cliente: {pedido['cliente_nome']}")
+        print(f"Produto: {pedido['produto_nome']}")
+        print(f"Quantidade: {pedido['quantidade']}")
+        print(f"Total: R$ {pedido['total']:.2f}")
+        print("-" * 30)
+
 # Texto do menu
 def show_menu():
-    print("\n Sistema Lanchonete ")
+    print("\n Sistema Lanchonete \n")
     print("1 - Cadastrar produto")
     print("2 - Ver produtos")
     print("3 - Fazer pedido")
     print("4 - Ver pedidos realizados")
-    print("5 - Sair")
+    print("5 - Mudar preço do produto")
+    print("6 - Remover produto")
+    print("7 - Pesquisar produto por nome")
+    print("8 - Relatório de vendas")
+    print("0 - Sair")
 
 def main():
     load_data()
@@ -175,8 +243,16 @@ def main():
             case '4':
                 list_orders()
             case '5':
+                alter_product_price()
+            case '6':
+                remove_product()
+            case '7':
+                search_product_by_name()
+            case '8':
+                sales_report()
+            case '0':
                 save_data()
-                print("Sistema encerrado, até a próxima. ")
+                print("\n Sistema encerrado, até a próxima. ")
                 break
             case _:
                 print ("opção inválida, tente novamente ")
