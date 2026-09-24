@@ -2,7 +2,7 @@ import json
 import os
 
 DATA_FILE = "lanchonete_dolaelecalabresonobru.json"
-2
+
 Produtos = []
 Pedidos = []
 
