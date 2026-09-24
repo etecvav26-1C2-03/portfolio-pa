@@ -1,0 +1,14 @@
+"""
+Autor: Cauan Machado de Souza
+Turma/instituição: 1C2 / ETECVAV
+Data: 11/08/2026
+"""
+
+num = int(input("Digite um número inteiro positivo: "))
+if num <= 0:
+    print("O número precisa ser positivo.")
+else:
+    contador = 1
+    while contador <= num:
+        print(contador)
+        contador += 1
