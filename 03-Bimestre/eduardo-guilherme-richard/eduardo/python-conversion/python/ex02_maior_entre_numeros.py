@@ -1,5 +1,5 @@
 '''
-    Autor: Eduardo Antônio de Oliveira Bargueiras
+    Autor: Richard Murilo Araujo Freire
     Data: 10/08/2026
     Descrição: Lê dois números inteiros e informa qual é o maior ou se são iguais.
 '''

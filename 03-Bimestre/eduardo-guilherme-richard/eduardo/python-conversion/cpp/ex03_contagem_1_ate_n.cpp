@@ -1,5 +1,5 @@
 /*
-    Autor: Eduardo Antônio de Oliveira Bargueiras
+    Autor: Richard Murilo Araujo Freire
     Data: 10/08/2026
     Descrição: Lê um número inteiro positivo e exibe a contagem de 1 até esse número.
 */
