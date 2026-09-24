@@ -1,0 +1,13 @@
+"""
+Autor: Cauan Machado de Souza
+Turma/instituição: 1C2 / ETECVAV
+Data: 11/08/2026
+"""
+
+numero = int(input("Digite um número inteiro"))
+if numero == 0:
+    print ("O seu número é zero.")
+elif numero > 0:
+    print ("O seu número é positivo.")
+else:
+    print ("O seu número é negativo.")
