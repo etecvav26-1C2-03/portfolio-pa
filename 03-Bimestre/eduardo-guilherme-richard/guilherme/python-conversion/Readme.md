@@ -12,14 +12,10 @@ E também usando a lógica própria, já que tentamos não converter só olhando
 - cpp/: versões originais em C++
 - python/: versões convertidas para Python
 
-## 🛠 Autores dos exemplos em C++
+## 🛠 Autor dos exemplos em C++
 
-- Eduardo Antônio de Oliveira Bargueiras
-- Richard Murilo Araujo Freire
-- Guilherme Miguel Rodrigues Pereira Lakonski
+- Profº Ronildo Ferreira
 
 ## 🛠 Conversão para Python
 
-- Eduardo Antônio de Oliveira Bargueiras
-- Richard Murilo Araujo Freire
-- Guilherme Miguel Rodrigues Pereira Lakonski
+- Guilherme Miguel dos Santos Pereira Lakonski
